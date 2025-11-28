@@ -1,91 +1,8 @@
 {
-  "total_apartments": 490,
-  "generated_at": "2025-11-28T16:42:07.158993",
+  "total_apartments": 256,
+  "generated_at": "2025-11-28T16:50:43.323534",
+  "note": "Solo apartamentos con empleados activos",
   "apartments": [
-    {
-      "apartment_code": "APT0001",
-      "name": "103号室",
-      "address": "岡山県岡山市北区清輝橋2-7-18",
-      "postal_code": "700-0861",
-      "prefecture": "岡山県",
-      "city": "岡山市北区清輝橋",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0002",
-      "name": "104号",
-      "address": "大阪府和泉市富秋町3丁目11番25",
-      "postal_code": "594-0082",
-      "prefecture": "大阪府",
-      "city": "和泉市富秋町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0003",
-      "name": "2号棟306号",
-      "address": "愛知県知多市つづじヶ丘1丁目14番地",
-      "postal_code": "478-0054",
-      "prefecture": "愛知県",
-      "city": "知多市つづじヶ丘",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0004",
-      "name": "304号",
-      "address": "大阪府大阪市港区波除5丁目3番9",
-      "postal_code": "552-0001",
-      "prefecture": "大阪府",
-      "city": "大阪市港区波除",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0005",
-      "name": "305号",
-      "address": "兵庫県神戸市東灘区深江本町2-7-3",
-      "postal_code": "658-0021",
-      "prefecture": "兵庫県",
-      "city": "神戸市東灘区深江本町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0006",
-      "name": "4-805",
-      "address": "大阪府大阪市住之江区粉浜西3丁目1番",
-      "postal_code": "559-0007",
-      "prefecture": "大阪府",
-      "city": "大阪市住之江区粉浜西",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0007",
-      "name": "405号",
-      "address": "大阪府大阪市淀川区十三本町3丁目5番19",
-      "postal_code": "532-0024",
-      "prefecture": "大阪府",
-      "city": "大阪市淀川区十三本町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
     {
       "apartment_code": "APT0008",
       "name": "405号室",
@@ -99,30 +16,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0009",
-      "name": "4F-2",
-      "address": "岐阜県大垣市内原1-468",
-      "postal_code": "503-0936",
-      "prefecture": "岐阜県",
-      "city": "大垣市内原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0010",
-      "name": "707号",
-      "address": "兵庫県西宮市里中町3丁目2番17",
-      "postal_code": "663-8183",
-      "prefecture": "兵庫県",
-      "city": "西宮市里中町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0011",
       "name": "904号",
       "address": "大阪府大阪市住之江区粉浜西3丁目1番2",
@@ -133,30 +26,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0012",
-      "name": "A-101号",
-      "address": "愛知県愛西市勝幡町林76",
-      "postal_code": "496-8001",
-      "prefecture": "愛知県",
-      "city": "愛西市勝幡町林",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0013",
-      "name": "A-style台金屋1-105号室",
-      "address": "岡山県真庭市台金屋624-10",
-      "postal_code": "719-3227",
-      "prefecture": "岡山県",
-      "city": "真庭市台金屋",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0014",
@@ -207,18 +76,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0018",
-      "name": "CASA弥冨A105",
-      "address": "愛知県弥富市前ヶ須町西勘助207",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ヶ須町西勘助",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0019",
       "name": "CASA弥冨A203",
       "address": "愛知県弥富市前ヶ須町西勘助207",
@@ -255,18 +112,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0022",
-      "name": "CASA弥富A202",
-      "address": "愛知県弥富市前ケ須町西勘助207番地",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ケ須町西勘助",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0023",
       "name": "CASA弥富A203",
       "address": "愛知県弥富市前ケ須町西勘助207番地",
@@ -277,66 +122,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0024",
-      "name": "CHODORI　102",
-      "address": "茨城県下妻市田下598-3",
-      "postal_code": "304-0812",
-      "prefecture": "",
-      "city": "",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0025",
-      "name": "Court八家3D号",
-      "address": "愛知県名古屋市中川区八家町2-164-1",
-      "postal_code": "454-0835",
-      "prefecture": "愛知県",
-      "city": "名古屋市中川区八家町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0026",
-      "name": "EAST COURT Y･M202",
-      "address": "愛知県弥富市平島町甲新田72-4",
-      "postal_code": "498-0031",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町甲新田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0027",
-      "name": "FLAT HANDA32号",
-      "address": "愛知県半田市岩滑中町1丁目65番地の１",
-      "postal_code": "475-0961",
-      "prefecture": "愛知県",
-      "city": "半田市岩滑中町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0028",
-      "name": "Florence1997 201",
-      "address": "岡山県井原市七日市町696-2",
-      "postal_code": "715-0014",
-      "prefecture": "岡山県",
-      "city": "井原市七日市町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0029",
@@ -363,30 +148,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0031",
-      "name": "IZONE506号",
-      "address": "大阪府大阪市天王寺区勝山1-1-16",
-      "postal_code": "543-0043",
-      "prefecture": "大阪府",
-      "city": "大阪市天王寺区勝山",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0032",
-      "name": "K HOUSE206",
-      "address": "岐阜県大垣市木戸町292番地",
-      "postal_code": "503-0973",
-      "prefecture": "岐阜県",
-      "city": "大垣市木戸町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0033",
       "name": "NOVA PLUS 301",
       "address": "愛知県半田市乙川稗田町116",
@@ -399,18 +160,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0034",
-      "name": "Residence Enfinity M1 201",
-      "address": "愛知県春日井市如意申町3丁目3－4",
-      "postal_code": "486-0918",
-      "prefecture": "愛知県",
-      "city": "春日井市如意申町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0035",
       "name": "SuperiorⅠ201",
       "address": "静岡県袋井市田町2丁目6-10",
@@ -421,18 +170,6 @@
       "status": "occupied",
       "capacity": 6,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0036",
-      "name": "いわいｻﾝｺｰﾎﾟ107号",
-      "address": "岡山県岡山市北区下伊福西町7-32",
-      "postal_code": "700-0054",
-      "prefecture": "岡山県",
-      "city": "岡山市北区下伊福西町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0037",
@@ -457,54 +194,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0039",
-      "name": "中あじま荘5棟206号",
-      "address": "愛知県名古屋市北区楠2-119",
-      "postal_code": "462-0012",
-      "prefecture": "愛知県",
-      "city": "名古屋市北区楠",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0040",
-      "name": "中伏屋荘T-4棟204号",
-      "address": "愛知県名古屋市中川区伏屋4丁目1501番地",
-      "postal_code": "454-0996",
-      "prefecture": "愛知県",
-      "city": "名古屋市中川区伏屋",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0041",
-      "name": "中須賀コーポⅠ102",
-      "address": "岡山県岡山市北区御津矢原312-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0042",
-      "name": "中須賀ｺｰﾎﾟⅠ102",
-      "address": "岡山県岡山市北区御津矢原312-2",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0043",
@@ -567,18 +256,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0048",
-      "name": "中須賀ｺｰﾎﾟⅢ203",
-      "address": "岡山県岡山市北区御津矢原311",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0049",
       "name": "中須賀ｺｰﾎﾟⅢ205",
       "address": "岡山県岡山市北区御津矢原311",
@@ -603,222 +280,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0051",
-      "name": "中須賀ｺｰﾎﾟⅢ208",
-      "address": "岡山県岡山市北区御津矢原311番地",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0052",
-      "name": "丸庄ﾋﾞﾙ401",
-      "address": "愛知県海部郡蟹江町城2丁目131",
-      "postal_code": "497-0040",
-      "prefecture": "愛知県",
-      "city": "海部郡蟹江町城",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0053",
-      "name": "丸池荘2棟1111号",
-      "address": "愛知県名古屋市港区丸池町1-1-1",
-      "postal_code": "455-0078",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区丸池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0054",
-      "name": "丸池荘3棟902号",
-      "address": "愛知県名古屋市港区丸池町1丁目1-1",
-      "postal_code": "457-0824",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区丸池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0055",
-      "name": "丸池荘4棟1108号",
-      "address": "愛知県名古屋市港区丸池町1丁目1-1",
-      "postal_code": "455-0078",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区丸池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0056",
-      "name": "丸池荘4棟1109号",
-      "address": "愛知県名古屋市港区丸池町1丁目1-1",
-      "postal_code": "455-0078",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区丸池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0057",
-      "name": "丸池荘4棟802号",
-      "address": "愛知県名古屋市港区丸池町1丁目1番",
-      "postal_code": "455-0078",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区丸池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0058",
-      "name": "久寿川岡田ﾏﾝｼｮﾝ202",
-      "address": "兵庫県西宮市今津久寿川町6-7",
-      "postal_code": "663-8222",
-      "prefecture": "兵庫県",
-      "city": "西宮市今津久寿川町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0059",
-      "name": "久寿川岡田ﾏﾝｼｮﾝ402",
-      "address": "兵庫県西宮市今津久寿川町6-7",
-      "postal_code": "663-8222",
-      "prefecture": "兵庫県",
-      "city": "西宮市今津久寿川町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0060",
-      "name": "九番団地1棟611",
-      "address": "愛知県名古屋市港区九番町1-1-1",
-      "postal_code": "455-0008",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区九",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0061",
-      "name": "九番団地7棟1305号",
-      "address": "愛知県名古屋市港区七番町2-11",
-      "postal_code": "455-0001",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区七",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0062",
-      "name": "京田住宅2号棟223号室",
-      "address": "鹿児島県姶良郡湧水町北方850番地",
-      "postal_code": "899-6202",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町北方",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0063",
-      "name": "京田住宅2号棟244",
-      "address": "鹿児島県姶良郡湧水町北方850番地",
-      "postal_code": "899-6202",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町北方",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0064",
-      "name": "京田住宅2号棟244号室",
-      "address": "鹿児島県姶良郡湧水町北方850番地",
-      "postal_code": "899-6202",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町北方",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0065",
-      "name": "京田住宅2号棟344",
-      "address": "鹿児島県姶良郡湧水町北方850番地",
-      "postal_code": "899-6202",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町北方",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0066",
-      "name": "住宅7-6",
-      "address": "岡山県井原市大池町3715番地折口",
-      "postal_code": "715-0023",
-      "prefecture": "岡山県",
-      "city": "井原市大池町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0067",
-      "name": "光籐ｺｰﾎﾟ203",
-      "address": "岡山県岡山市中区国府市場484",
-      "postal_code": "703-8203",
-      "prefecture": "岡山県",
-      "city": "岡山市中区国府市場",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0068",
-      "name": "共和ﾌﾟﾗｻﾞﾋﾞﾙ1号館203",
-      "address": "愛知県大府市共和町2-18-8",
-      "postal_code": "474-0057",
-      "prefecture": "愛知県",
-      "city": "大府市共和町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0069",
       "name": "古橋ﾏﾝｼｮﾝ101",
       "address": "愛知県高浜市神明町1丁目2-1",
@@ -829,18 +290,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0070",
-      "name": "各務ﾊｲﾂ2D",
-      "address": "岐阜県恵那市大井町1120-303",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 5,
-      "status": "available",
-      "capacity": 5,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0071",
@@ -939,54 +388,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0079",
-      "name": "各務ﾊｲﾂ7I",
-      "address": "岐阜県恵那市大井町1120-303",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0080",
-      "name": "大山田団地6棟401号",
-      "address": "三重県桑名市大山田8丁目7-131",
-      "postal_code": "511-0903",
-      "prefecture": "三重県",
-      "city": "桑名市大山田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0081",
-      "name": "大松ﾊﾟｻｰｼﾞｭⅡ102号",
-      "address": "愛知県半田市瑞穂町4丁目1-19",
-      "postal_code": "475-0828",
-      "prefecture": "愛知県",
-      "city": "半田市瑞穂町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0082",
-      "name": "天野ﾏﾝｼｮﾝ402",
-      "address": "愛知県名古屋市中村区草薙町1-26",
-      "postal_code": "453-0064",
-      "prefecture": "愛知県",
-      "city": "名古屋市中村区草薙町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0083",
       "name": "妙慶ﾊｲﾂ202号",
       "address": "愛知県春日井市妙慶町2丁目8",
@@ -999,54 +400,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0084",
-      "name": "安井ﾋﾞﾙ2C",
-      "address": "愛知県弥富市前ヶ須町東勘助138",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ヶ須町東勘助",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0085",
-      "name": "安井ﾋﾞﾙ5D",
-      "address": "愛知県弥富市前ヶ須町東勘助138",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ヶ須町東勘助",
-      "employee_count": 5,
-      "status": "available",
-      "capacity": 5,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0086",
-      "name": "宮前住宅2号室241号",
-      "address": "鹿児島県姶良郡湧水町木場255番地1",
-      "postal_code": "899-6201",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0087",
-      "name": "宮前ﾂｲﾝﾊｲﾂA101",
-      "address": "鹿児島県姶良郡湧水町木場280-3",
-      "postal_code": "899-6201",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 5,
-      "status": "available",
-      "capacity": 5,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0088",
       "name": "富吉公団住宅321号",
       "address": "愛知県海部郡蟹江町富吉1丁目723番地",
@@ -1057,54 +410,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0089",
-      "name": "尾鉢第2住宅1号棟112号",
-      "address": "鹿児島県姶良郡湧水町木場1218番地",
-      "postal_code": "899-6201",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0090",
-      "name": "尾鉢第2住宅2号棟211号室",
-      "address": "鹿児島県姶良郡湧水町木場1218番地",
-      "postal_code": "899-6201",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0091",
-      "name": "尾鉢第3住宅1号棟",
-      "address": "鹿児島県姶良郡湧水町木場1214番地1",
-      "postal_code": "899-6200",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0092",
-      "name": "尾鉢第3住宅2号棟",
-      "address": "鹿児島県姶良郡湧水町木場1214番地1",
-      "postal_code": "899-6200",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0093",
@@ -1131,18 +436,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0095",
-      "name": "岩辺借家",
-      "address": "岡山県美作市岩辺493-10",
-      "postal_code": "709-4222",
-      "prefecture": "岡山県",
-      "city": "美作市岩辺",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0096",
       "name": "岸田ﾏﾝｼｮﾝ402号",
       "address": "大阪府大阪市住之江区御崎3-3-20",
@@ -1153,42 +446,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0097",
-      "name": "市営B-107号",
-      "address": "愛知県豊田市松平志賀町柿谷下28番地",
-      "postal_code": "471-0873",
-      "prefecture": "愛知県",
-      "city": "豊田市松平志賀町柿谷下",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0098",
-      "name": "市営東山住宅E棟602号",
-      "address": "愛知県豊田市東山町2丁目1555－1",
-      "postal_code": "470-0331",
-      "prefecture": "愛知県",
-      "city": "豊田市東山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0099",
-      "name": "市営Ｂ102号",
-      "address": "愛知県豊田市松平志賀町柿谷下28番地",
-      "postal_code": "471-0805",
-      "prefecture": "愛知県",
-      "city": "豊田市松平志賀町柿谷下",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0100",
@@ -1215,18 +472,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0102",
-      "name": "成広矢原コーポⅢ207",
-      "address": "岡山県岡山市北区御津矢原294-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0103",
       "name": "成広矢原ｺｰⅢ207",
       "address": "岡山県岡山市北区御津矢原294-1",
@@ -1237,18 +482,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0104",
-      "name": "成広矢原ｺｰﾎⅥ102",
-      "address": "岡山県岡山市北区御津矢原298-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0105",
@@ -1263,18 +496,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0106",
-      "name": "成広矢原ｺｰﾎⅦ206",
-      "address": "岡山県岡山市北区御津矢原299-2",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0107",
       "name": "成広矢原ｺｰﾎﾟ7 106",
       "address": "岡山県岡山市北区御津矢原299-2",
@@ -1285,18 +506,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0108",
-      "name": "成広矢原ｺｰﾎﾟ7 201",
-      "address": "岡山県岡山市北区御津矢原299-2",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0109",
@@ -1357,18 +566,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0114",
-      "name": "成広矢原ｺｰﾎﾟⅠ205号",
-      "address": "岡山県岡山市北区御津矢原307",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0115",
@@ -1443,18 +640,6 @@
       "current_occupants": 4
     },
     {
-      "apartment_code": "APT0121",
-      "name": "成広矢原ｺｰﾎﾟⅢ103号",
-      "address": "岡山県岡山市北区御津矢原294-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0122",
       "name": "成広矢原ｺｰﾎﾟⅢ105",
       "address": "岡山県岡山市北区御津矢原294-1",
@@ -1477,66 +662,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0124",
-      "name": "成広矢原ｺｰﾎﾟⅢ107号",
-      "address": "岡山県岡山市北区御津矢原294－1",
-      "postal_code": "709-2132",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0125",
-      "name": "成広矢原ｺｰﾎﾟⅢ203",
-      "address": "岡山県岡山市北区御津矢原294-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0126",
-      "name": "成広矢原ｺｰﾎﾟⅢ207",
-      "address": "岡山県岡山市北区御津矢原294番地１",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0127",
-      "name": "成広矢原ｺｰﾎﾟⅢ208",
-      "address": "岡山県岡山市北区御津矢原294-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0128",
-      "name": "成広矢原ｺｰﾎﾟⅢ208号",
-      "address": "岡山県岡山市北区御津矢原294-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0129",
@@ -1635,18 +760,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0137",
-      "name": "成広矢原ｺｰﾎﾟⅥ101号",
-      "address": "岡山県岡山市北区御津矢原298-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0138",
       "name": "成広矢原ｺｰﾎﾟⅥ102",
       "address": "岡山県岡山市北区御津矢原298-1",
@@ -1671,18 +784,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0140",
-      "name": "成広矢原ｺｰﾎﾟⅥ106",
-      "address": "岡山県岡山市北区御津矢原298-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0141",
       "name": "成広矢原ｺｰﾎﾟⅥ203",
       "address": "岡山県岡山市北区御津矢原298-1",
@@ -1693,18 +794,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0142",
-      "name": "成広矢原ｺｰﾎﾟⅥ205",
-      "address": "岡山県岡山市北区御津矢原298-1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0143",
@@ -1767,54 +856,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0148",
-      "name": "成広矢原ｺｰﾎﾟⅦ　205",
-      "address": "岡山県岡山市北区御津矢原29-9-2",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0149",
-      "name": "成広ｺｰﾎﾟⅠ-202",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0150",
-      "name": "成広ｺｰﾎﾟⅠ103",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0151",
-      "name": "成広ｺｰﾎﾟⅠ103号室",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0152",
       "name": "成広ｺｰﾎﾟⅠ105号室",
       "address": "岡山県岡山市北区御津矢原370",
@@ -1839,18 +880,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0154",
-      "name": "成広ｺｰﾎﾟⅠ205",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0155",
       "name": "成広ｺｰﾎﾟⅡ-203",
       "address": "岡山県岡山市北区御津矢原370",
@@ -1863,18 +892,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0156",
-      "name": "成広ｺｰﾎﾟⅡ101",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0157",
       "name": "成広ｺｰﾎﾟⅡ102",
       "address": "岡山県岡山市北区御津矢原370",
@@ -1885,18 +902,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0158",
-      "name": "成広ｺｰﾎﾟⅡ102号",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0159",
@@ -1923,18 +928,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0161",
-      "name": "成広ｺｰﾎﾟⅡ203",
-      "address": "岡山県岡山市北区御津矢原370",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0162",
       "name": "成広ｺｰﾎﾟⅡ206",
       "address": "岡山県岡山市北区御津矢原370",
@@ -1959,30 +952,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0164",
-      "name": "折口住宅11-315号",
-      "address": "岡山県井原市大江町3715番地",
-      "postal_code": "715-0023",
-      "prefecture": "岡山県",
-      "city": "井原市大江町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0165",
-      "name": "折口住宅3-7",
-      "address": "岡山県井原市大江町3715番地",
-      "postal_code": "715-0023",
-      "prefecture": "岡山県",
-      "city": "井原市大江町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0166",
       "name": "折口住宅3－7号",
       "address": "岡山県井原市大江町3715番地",
@@ -1993,30 +962,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0167",
-      "name": "新土古荘1棟202号",
-      "address": "愛知県名古屋市港区土古町2丁目23番地",
-      "postal_code": "455-0068",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区土古町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0168",
-      "name": "新矢原1F",
-      "address": "岡山県岡山市北区御津矢原311番地",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0169",
@@ -2031,18 +976,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0170",
-      "name": "松下荘T-2棟204",
-      "address": "愛知県名古屋市中川区吉津3-1004",
-      "postal_code": "454-0981",
-      "prefecture": "愛知県",
-      "city": "名古屋市中川区吉津",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0171",
       "name": "港楽荘4棟102号",
       "address": "愛知県名古屋市港区港楽1-1-10",
@@ -2053,18 +986,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0172",
-      "name": "甲子園四番町ﾊｲﾂ1F号",
-      "address": "兵庫県西宮市甲子園四番町1-16",
-      "postal_code": "663-8174",
-      "prefecture": "兵庫県",
-      "city": "西宮市甲子園四",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0173",
@@ -2115,30 +1036,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0177",
-      "name": "県営堀越団地5棟 205号室",
-      "address": "静岡県袋井市堀越四丁目１番地の1",
-      "postal_code": "437-0065",
-      "prefecture": "静岡県",
-      "city": "袋井市堀越四",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0178",
-      "name": "県営梶田町住宅6棟304",
-      "address": "愛知県大府市梶田町3-143-2",
-      "postal_code": "474-0071",
-      "prefecture": "愛知県",
-      "city": "大府市梶田町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0179",
       "name": "県営横根住宅403号",
       "address": "愛知県大府市横根町午池80-2",
@@ -2149,54 +1046,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0180",
-      "name": "県営横浜住宅１棟301",
-      "address": "愛知県高浜市田戸町二丁目6-40",
-      "postal_code": "444-1323",
-      "prefecture": "愛知県",
-      "city": "高浜市田戸町二",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0181",
-      "name": "県営武豊住宅2-405",
-      "address": "愛知県知多郡武豊町堀割1-1",
-      "postal_code": "470-2300",
-      "prefecture": "愛知県",
-      "city": "知多郡武豊町堀割",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0182",
-      "name": "県営葵団地2-207",
-      "address": "静岡県浜松市中区葵西6丁目22-12",
-      "postal_code": "433-8111",
-      "prefecture": "静岡県",
-      "city": "浜松市中区葵西",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0183",
-      "name": "県営葵団地2棟206号",
-      "address": "静岡県浜松市中区葵西6丁目22-12",
-      "postal_code": "433-8111",
-      "prefecture": "静岡県",
-      "city": "浜松市中区葵西",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0184",
@@ -2211,30 +1060,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0185",
-      "name": "県営赤松住宅4棟202号",
-      "address": "愛知県高浜市春日町1丁目２番地１",
-      "postal_code": "444-1334",
-      "prefecture": "愛知県",
-      "city": "高浜市春日町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0186",
-      "name": "県営長根住宅1-306",
-      "address": "愛知県半田市長根町3丁目1番",
-      "postal_code": "475-0074",
-      "prefecture": "愛知県",
-      "city": "半田市長根町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0187",
       "name": "県営長根住宅10棟402号",
       "address": "愛知県半田市長根町3丁目1番",
@@ -2245,18 +1070,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0188",
-      "name": "県営長根住宅11棟308",
-      "address": "愛知県半田市長根町3丁目1番",
-      "postal_code": "475-0074",
-      "prefecture": "愛知県",
-      "city": "半田市長根町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0189",
@@ -2331,18 +1144,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0195",
-      "name": "県営長根住宅6棟405号",
-      "address": "愛知県半田市長根町3丁目1",
-      "postal_code": "475-0074",
-      "prefecture": "愛知県",
-      "city": "半田市長根町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0196",
       "name": "県営長根住宅7棟406号",
       "address": "愛知県半田市長根町3丁目1番",
@@ -2379,18 +1180,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0199",
-      "name": "第18和興ﾏﾝｼｮﾝ北館202",
-      "address": "愛知県名古屋市港区宝神2-1107",
-      "postal_code": "455-0832",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区宝神",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0200",
       "name": "花水木C",
       "address": "愛知県刈谷市八幡町7丁目16-1",
@@ -2401,54 +1190,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0201",
-      "name": "草生一軒家",
-      "address": "岡山県岡山市北区御津草生2169番地2",
-      "postal_code": "709-2132",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津草生",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0202",
-      "name": "草生戸建",
-      "address": "岡山県岡山市北区御津矢原2169番地2",
-      "postal_code": "709-2132",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0203",
-      "name": "菱刈ﾊｲﾂA103",
-      "address": "鹿児島県伊佐市菱刈前目1942",
-      "postal_code": "895-2701",
-      "prefecture": "鹿児島県",
-      "city": "伊佐市菱刈前",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0204",
-      "name": "西宮ｵﾘｴﾝﾀﾙﾏﾝｼｮﾝ102",
-      "address": "兵庫県西宮市上之町25-54",
-      "postal_code": "663-8021",
-      "prefecture": "兵庫県",
-      "city": "西宮市上之町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0205",
@@ -2499,30 +1240,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0209",
-      "name": "青木ﾏﾝｼｮﾝ303",
-      "address": "兵庫県神戸市東灘区北青木3－20－23",
-      "postal_code": "658-0014",
-      "prefecture": "兵庫県",
-      "city": "神戸市東灘区北青木",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0210",
-      "name": "須成荘3棟302号",
-      "address": "愛知県名古屋市港区須成町2丁目14番地",
-      "postal_code": "455-0072",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区須成町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0211",
       "name": "飯田第二ｺｰﾎﾟ103",
       "address": "愛知県名古屋市港区明正2丁目176",
@@ -2533,18 +1250,6 @@
       "status": "occupied",
       "capacity": 6,
       "current_occupants": 4
-    },
-    {
-      "apartment_code": "APT0212",
-      "name": "高安一番館303号室",
-      "address": "大阪府八尾市高安町南1-69-6",
-      "postal_code": "581-0875",
-      "prefecture": "大阪府",
-      "city": "八尾市高安町南",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0213",
@@ -2559,18 +1264,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0214",
-      "name": "鬼頭第2土古ﾋﾞﾙ202",
-      "address": "愛知県名古屋市港区土古町4丁目72番地",
-      "postal_code": "455-0068",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区土古町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0215",
       "name": "鶴松203",
       "address": "静岡県袋井市山科3388-1",
@@ -2581,18 +1274,6 @@
       "status": "occupied",
       "capacity": 6,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0216",
-      "name": "黄金ﾏﾝｼｮﾝ302",
-      "address": "愛知県大府市追分町2丁目334番地",
-      "postal_code": "474-0027",
-      "prefecture": "愛知県",
-      "city": "大府市追分町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0217",
@@ -2703,42 +1384,6 @@
       "current_occupants": 3
     },
     {
-      "apartment_code": "APT0226",
-      "name": "ｱﾒﾆﾃｨﾊｲﾂ田島101",
-      "address": "山口県防府市大字田島1510－5",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "防府市大字田島",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0227",
-      "name": "ｱﾒﾆﾃｨﾊｲﾂ田島203",
-      "address": "山口県防府市大字田島1510－5",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "防府市大字田島",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0228",
-      "name": "ｱﾒﾆﾃｨﾊｳｽ重実305号室",
-      "address": "岡山県岡山市北区横井上203番地7",
-      "postal_code": "701-1145",
-      "prefecture": "岡山県",
-      "city": "岡山市北区横井上",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0229",
       "name": "ｱﾙｺ･ﾊﾞﾚｰﾉ205",
       "address": "静岡県袋井市久能1744番地1",
@@ -2823,18 +1468,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0236",
-      "name": "ｱﾙｿｰﾚD203",
-      "address": "山口県防府市大字浜方716-15",
-      "postal_code": "747-0833",
-      "prefecture": "山口県",
-      "city": "防府市大字浜方",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0237",
       "name": "ｱﾙﾃｰﾙ宮代A号",
       "address": "岐阜県不破郡垂井町宮代536番地の1",
@@ -2845,54 +1478,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0238",
-      "name": "ｲｰｽﾄｺｰﾄ202",
-      "address": "愛知県弥富市平島町甲新田72-4",
-      "postal_code": "498-0031",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町甲新田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0239",
-      "name": "ｲﾌﾟｼﾛﾝB101",
-      "address": "岡山県井原市高屋町1丁目20-11",
-      "postal_code": "715-0024",
-      "prefecture": "岡山県",
-      "city": "井原市高屋町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0240",
-      "name": "ｲﾌﾟｼﾛﾝB102",
-      "address": "岡山県井原市高屋町1丁目20-11",
-      "postal_code": "715-0024",
-      "prefecture": "岡山県",
-      "city": "井原市高屋町",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0241",
-      "name": "ｳｯﾄﾞﾌｨｰﾙﾄﾞB203",
-      "address": "岡山県井原市木之子町5837-1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0242",
@@ -2919,18 +1504,6 @@
       "current_occupants": 3
     },
     {
-      "apartment_code": "APT0244",
-      "name": "ｳﾞｪﾙﾃﾞ202",
-      "address": "静岡県袋井市久能2286-1",
-      "postal_code": "437-0061",
-      "prefecture": "静岡県",
-      "city": "袋井市久能",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0245",
       "name": "ｴｸｾｰﾗ103号室",
       "address": "静岡県袋井市堀越3丁目19番地2",
@@ -2950,9 +1523,9 @@
       "prefecture": "静岡県",
       "city": "袋井市堀越",
       "employee_count": 1,
-      "status": "available",
+      "status": "occupied",
       "capacity": 4,
-      "current_occupants": 0
+      "current_occupants": 1
     },
     {
       "apartment_code": "APT0247",
@@ -2967,54 +1540,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0248",
-      "name": "ｴｸｾｰﾗ305号室",
-      "address": "静岡県袋井市堀越3丁目19-2",
-      "postal_code": "437-0065",
-      "prefecture": "静岡県",
-      "city": "袋井市堀越",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0249",
-      "name": "ｴｽﾃｰﾄｲﾃﾞﾊﾗB102",
-      "address": "岡山県井原市下出部町2丁目8-7",
-      "postal_code": "715-0022",
-      "prefecture": "岡山県",
-      "city": "井原市下出部町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0250",
-      "name": "ｴｽﾎﾟｱｸｲﾝｽﾞｺｰﾄ20Ｃ",
-      "address": "愛知県名古屋市港区油屋3-28-3",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区油屋",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0251",
-      "name": "ｴｽﾎﾟﾜｰﾙ春日井302号",
-      "address": "愛知県春日市下屋敷町101-3",
-      "postal_code": "486-0906",
-      "prefecture": "愛知県",
-      "city": "春日市下屋敷町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0252",
       "name": "ｷｬﾝﾊﾟｽみずほⅡ203",
       "address": "静岡県浜松市中央区高丘北３丁目１４番２５号",
@@ -3027,18 +1552,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0253",
-      "name": "ｸｲｰﾝﾊｲﾂ清水ヶ丘403号",
-      "address": "大阪府大阪市住吉区清水丘1-29-13",
-      "postal_code": "558-0033",
-      "prefecture": "大阪府",
-      "city": "大阪市住吉区清水丘",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0254",
       "name": "ｸﾚｰﾙ103",
       "address": "静岡県袋井市堀越3-7-1",
@@ -3049,54 +1562,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0255",
-      "name": "ｸﾚｾｰﾙB-102号",
-      "address": "岡山県岡山市中区沢田7-11",
-      "postal_code": "703-8234",
-      "prefecture": "岡山県",
-      "city": "岡山市中区沢田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0256",
-      "name": "ｸﾞﾗﾝｴﾄﾜｰﾙA203",
-      "address": "岡山県井原市西江原町936-3",
-      "postal_code": "715-0006",
-      "prefecture": "岡山県",
-      "city": "井原市西江原町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0257",
-      "name": "ｸﾞﾗﾝｴﾄﾜｰﾙB103",
-      "address": "岡山県井原市西江原町936-1",
-      "postal_code": "715-0006",
-      "prefecture": "岡山県",
-      "city": "井原市西江原町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0258",
-      "name": "ｸﾞﾗﾝｴﾄﾜｰﾙB201",
-      "address": "岡山県井原市西江原町936-1",
-      "postal_code": "715-0006",
-      "prefecture": "岡山県",
-      "city": "井原市西江原町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0259",
@@ -3147,42 +1612,6 @@
       "current_occupants": 3
     },
     {
-      "apartment_code": "APT0263",
-      "name": "ｸﾞﾗﾝﾃﾞｰｻﾞ201",
-      "address": "岡山県岡山市北区御津矢原288番地1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 7,
-      "status": "available",
-      "capacity": 7,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0264",
-      "name": "ｸﾞﾗﾝﾃﾞｰｻﾞ202",
-      "address": "岡山県岡山市北区御津矢原288番地1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 8,
-      "status": "available",
-      "capacity": 8,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0265",
-      "name": "ｸﾞﾗﾝﾃﾞｰｻﾞ206",
-      "address": "岡山県岡山市北区御津矢原288番地1",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 6,
-      "status": "available",
-      "capacity": 6,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0266",
       "name": "ｸﾞﾗﾝﾃﾞｰｻﾞ208",
       "address": "岡山県岡山市北区御津矢原288-1",
@@ -3207,18 +1636,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0268",
-      "name": "ｸﾞﾗﾝﾃﾞｰｻﾞⅡ101",
-      "address": "岡山県岡山市北区御津矢原339-2",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0269",
       "name": "ｸﾞﾘｰﾝﾊｲﾂA棟201",
       "address": "愛知県弥富市鯏浦町浦六1-1",
@@ -3229,18 +1646,6 @@
       "status": "occupied",
       "capacity": 6,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0270",
-      "name": "ｸﾞﾘｰﾝﾊｲﾂ小曽根403",
-      "address": "兵庫県西宮市小曽根町1丁目4-28",
-      "postal_code": "663-8122",
-      "prefecture": "兵庫県",
-      "city": "西宮市小曽根町",
-      "employee_count": 4,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0271",
@@ -3255,42 +1660,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0272",
-      "name": "ｸﾞﾛｰﾘｨ十一屋304号",
-      "address": "愛知県名古屋市港区十一屋3丁目24-1",
-      "postal_code": "455-0046",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区十一屋",
-      "employee_count": 5,
-      "status": "available",
-      "capacity": 5,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0273",
-      "name": "ｺｯﾄﾝﾊｲﾂ105",
-      "address": "愛知県半田市長根町1丁目104",
-      "postal_code": "475-0828",
-      "prefecture": "愛知県",
-      "city": "半田市長根町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0274",
-      "name": "ｺｰﾎﾟとりおか201号",
-      "address": "岡山県井原市高屋町1丁目26-6",
-      "postal_code": "715-0024",
-      "prefecture": "岡山県",
-      "city": "井原市高屋町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0275",
       "name": "ｺｰﾎﾟ下村203号",
       "address": "愛知県大府市若草町2丁目160番地",
@@ -3301,42 +1670,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0276",
-      "name": "ｺｰﾎﾟ光201",
-      "address": "愛知県春日井市新開町字新開61－19",
-      "postal_code": "486-0902",
-      "prefecture": "愛知県",
-      "city": "春日井市新開町字新開",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0277",
-      "name": "ｺｰﾎﾟ小田206",
-      "address": "岡山県小田郡矢掛町小田5518-1",
-      "postal_code": "714-1227",
-      "prefecture": "岡山県",
-      "city": "小田郡矢掛町小田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0278",
-      "name": "ｺｰﾎﾟ浜側105",
-      "address": "愛知県半田市乙川浜側町2-39",
-      "postal_code": "475-0043",
-      "prefecture": "愛知県",
-      "city": "半田市乙川浜側町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0279",
@@ -3351,18 +1684,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0280",
-      "name": "ｺｰﾎﾟｵｰｸｽ202号",
-      "address": "愛知県半田市乙川太田町2丁目125番地",
-      "postal_code": "475-0041",
-      "prefecture": "愛知県",
-      "city": "半田市乙川太田町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0281",
       "name": "ｺｰﾎﾟﾏｲｷｬｯｽﾙS 206号室",
       "address": "愛知県半田市美原町1丁目25番地",
@@ -3375,30 +1696,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0282",
-      "name": "ｺｰﾎﾟﾗｽSK102",
-      "address": "愛知県高浜市小池町4丁目6番地6",
-      "postal_code": "444-1303",
-      "prefecture": "愛知県",
-      "city": "高浜市小池町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0283",
-      "name": "ｺｽﾓﾊｲﾂB205号",
-      "address": "岐阜県不破郡垂井町宮代555番地1",
-      "postal_code": "503-2124",
-      "prefecture": "岐阜県",
-      "city": "不破郡垂井町宮代",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0284",
       "name": "ｺﾝﾂｪﾙﾊｳｽB棟106",
       "address": "愛知県弥富市平島町中新田196-1",
@@ -3409,18 +1706,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0285",
-      "name": "ｺﾝﾂｪﾙﾊｳｽⅡC棟203",
-      "address": "愛知県弥富市平島町中新田194-１",
-      "postal_code": "498-0031",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町中新田",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0286",
@@ -3459,30 +1744,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0289",
-      "name": "ｻﾆｰﾊﾟﾚｽ102",
-      "address": "兵庫県神戸市西区大津和2-9-3",
-      "postal_code": "651-2112",
-      "prefecture": "兵庫県",
-      "city": "神戸市西区大津和",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0290",
-      "name": "ｻﾝ・ﾅｶﾑﾗ203",
-      "address": "愛知県春日井市田楽町1641-10",
-      "postal_code": "468-0808",
-      "prefecture": "愛知県",
-      "city": "春日井市田楽町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0291",
       "name": "ｻﾝｳﾞｨﾚｯｼﾞ91-205",
       "address": "愛知県春日井市大手田酉町1-5-15",
@@ -3495,114 +1756,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0292",
-      "name": "ｻﾝｼﾃｨ静里B102",
-      "address": "岐阜県大垣市桧町847番地",
-      "postal_code": "503-0981",
-      "prefecture": "岐阜県",
-      "city": "大垣市桧町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0293",
-      "name": "ｻﾝﾊｲﾂいたのC201",
-      "address": "岡山県岡山市北区白石194-1",
-      "postal_code": "701-0143",
-      "prefecture": "岡山県",
-      "city": "岡山市北区白石",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0294",
-      "name": "ｻﾝﾊﾟﾃｨｰｸⅡ1E",
-      "address": "愛知県小牧市大字北外山2643番地1",
-      "postal_code": "485-0023",
-      "prefecture": "愛知県",
-      "city": "小牧市大字北外山",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0295",
-      "name": "ｻﾝﾊﾟﾃｨｰｸⅡ3C",
-      "address": "愛知県小牧市大字北外山2643番地1",
-      "postal_code": "485-0023",
-      "prefecture": "愛知県",
-      "city": "小牧市大字北外山",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0296",
-      "name": "ｻﾝﾋﾞﾚｯｼﾞ横川203",
-      "address": "愛知県半田市大伝根町2丁目2-16",
-      "postal_code": "475-0071",
-      "prefecture": "愛知県",
-      "city": "半田市大伝根町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0297",
-      "name": "ｻﾝﾋﾟｱ清野205",
-      "address": "愛知県大府市明成町2丁目176番地",
-      "postal_code": "474-0056",
-      "prefecture": "愛知県",
-      "city": "大府市明成町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0298",
-      "name": "ｻﾝﾋﾟｱｯﾂｧA101",
-      "address": "岡山県井原氏七日市町735-1",
-      "postal_code": "715-0014",
-      "prefecture": "岡山県",
-      "city": "井原氏七日市町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0299",
-      "name": "ｻﾝﾗｲﾌ住之江101",
-      "address": "大阪府大阪市住之江区住之江3-3-21",
-      "postal_code": "559-0004",
-      "prefecture": "大阪府",
-      "city": "大阪市住之江区住之江",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0300",
-      "name": "ｻﾞ･ｼｯｸ101",
-      "address": "愛知県高浜市向山町1丁目210番地3",
-      "postal_code": "444-1313",
-      "prefecture": "愛知県",
-      "city": "高浜市向山町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0301",
       "name": "ｼｬﾙﾏﾝA101",
       "address": "静岡県袋井市堀越1402-3",
@@ -3613,18 +1766,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0302",
-      "name": "ｼｬﾙﾏﾝ苗代102号",
-      "address": "愛知県半田市苗代町2丁目19番地",
-      "postal_code": "475-0075",
-      "prefecture": "愛知県",
-      "city": "半田市苗代町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0303",
@@ -3675,18 +1816,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0307",
-      "name": "ｼﾃｨｺｰﾌﾟUSA1 402",
-      "address": "岐阜県大垣市荒尾町1510",
-      "postal_code": "503-0034",
-      "prefecture": "岐阜県",
-      "city": "大垣市荒尾町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0308",
       "name": "ｼﾃｨﾊｲﾑｸﾞﾘｰﾝﾗｲﾄ202",
       "address": "静岡県袋井市葵町2-3-13",
@@ -3697,18 +1826,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0309",
-      "name": "ｼﾃｨﾊｲﾑﾌｶﾂA103号室",
-      "address": "静岡県袋井市旭町1丁目8番地の18",
-      "postal_code": "437-0015",
-      "prefecture": "静岡県",
-      "city": "袋井市旭町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0310",
@@ -3723,42 +1840,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0311",
-      "name": "ｼﾞｮｲﾌﾙﾊｲﾂ204",
-      "address": "兵庫県尼崎市武庫川町3丁目",
-      "postal_code": "660-0084",
-      "prefecture": "兵庫県",
-      "city": "尼崎市武庫川町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0312",
-      "name": "ｽｲｰﾄﾀｯﾁD号室",
-      "address": "鹿児島県姶良郡湧水町木場189番地",
-      "postal_code": "899-6201",
-      "prefecture": "鹿児島県",
-      "city": "姶良郡湧水町木場",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0313",
-      "name": "ｽｲｶｲﾚｼﾞﾃﾞﾝｽ302",
-      "address": "愛知県半田市瑞穂町9丁目6-9",
-      "postal_code": "475-0828",
-      "prefecture": "愛知県",
-      "city": "半田市瑞穂町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0314",
       "name": "ｽｶｲﾋﾞｰﾝｽﾞ柏原202号",
       "address": "愛知県春日井市柏原町5-225",
@@ -3769,18 +1850,6 @@
       "status": "occupied",
       "capacity": 7,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0315",
-      "name": "ｽｶｲﾚｼﾞﾃﾞﾝｽ302",
-      "address": "愛知県半田市瑞穂町9丁目6-9",
-      "postal_code": "475-0828",
-      "prefecture": "愛知県",
-      "city": "半田市瑞穂町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0316",
@@ -3807,18 +1876,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0318",
-      "name": "ｾﾗﾀｳﾝ弥富C棟201",
-      "address": "愛知県弥富市鯏浦町中六109-1",
-      "postal_code": "498-0028",
-      "prefecture": "愛知県",
-      "city": "弥富市鯏浦町中六",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0319",
       "name": "ﾀｳﾆｰﾊﾝﾀﾞC201",
       "address": "愛知県弥冨市前ケ須町勘助走７番地1",
@@ -3829,30 +1886,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0320",
-      "name": "ﾀｶﾞﾐﾊｲﾑ102",
-      "address": "岡山県井原市高屋町5丁目11-6",
-      "postal_code": "715-0024",
-      "prefecture": "岡山県",
-      "city": "井原市高屋町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0321",
-      "name": "ﾀﾞｲｺｰﾏﾝｼｮﾝ103",
-      "address": "愛知県名古屋市港区大手町2丁目31",
-      "postal_code": "455-0046",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区大手町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0322",
@@ -3877,18 +1910,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0324",
-      "name": "ﾃﾞｰｱｱｲⅠ　201号",
-      "address": "山口県防府市大字新田1721-1",
-      "postal_code": "747-0825",
-      "prefecture": "山口県",
-      "city": "防府市大字新田",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0325",
@@ -3939,18 +1960,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0329",
-      "name": "ﾄﾞﾐｰﾙ神明B-103",
-      "address": "愛知県高浜市神明町2-2-36",
-      "postal_code": "444-1305",
-      "prefecture": "愛知県",
-      "city": "高浜市神明町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0330",
       "name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西A101",
       "address": "岡山県岡山市北区御津金川373番地1",
@@ -3973,30 +1982,6 @@
       "status": "occupied",
       "capacity": 5,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0332",
-      "name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西C201",
-      "address": "岡山県岡山市北区御津金川373番地1",
-      "postal_code": "709-2133",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津金川",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0333",
-      "name": "ﾆｭｰﾊﾋﾟﾈｽ201",
-      "address": "愛知県刈谷市大正町7丁目401-1",
-      "postal_code": "448-0855",
-      "prefecture": "愛知県",
-      "city": "刈谷市大正町",
-      "employee_count": 5,
-      "status": "available",
-      "capacity": 5,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0334",
@@ -4035,30 +2020,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0337",
-      "name": "ﾊｲﾂ165壬生B202",
-      "address": "岡山県美作市壬生148-3",
-      "postal_code": "707-0434",
-      "prefecture": "岡山県",
-      "city": "美作市壬生",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0338",
-      "name": "ﾊｲﾂこうしんA棟1",
-      "address": "愛知県半田市庚申町2-6-7",
-      "postal_code": "475-0086",
-      "prefecture": "愛知県",
-      "city": "半田市庚申町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0339",
       "name": "ﾊｲﾂこうしんA棟101号",
       "address": "愛知県半田市庚申町2丁目6番地の7",
@@ -4069,30 +2030,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0340",
-      "name": "ﾊｲﾂこうしんA棟103",
-      "address": "愛知県半田市庚申町2-6-7",
-      "postal_code": "475-0086",
-      "prefecture": "愛知県",
-      "city": "半田市庚申町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0341",
-      "name": "ﾊｲﾂこうしんA棟103号",
-      "address": "愛知県半田市庚申町2丁目6番地の7",
-      "postal_code": "475-0086",
-      "prefecture": "愛知県",
-      "city": "半田市庚申町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0342",
@@ -4107,18 +2044,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0343",
-      "name": "ﾊｲﾂ大富B棟1",
-      "address": "愛知県弥富市平島町中新田128",
-      "postal_code": "498-0031",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町中新田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0344",
       "name": "ﾊｲﾂ長嶋201",
       "address": "愛知県豊田市美里1-14-18",
@@ -4129,18 +2054,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 4
-    },
-    {
-      "apartment_code": "APT0345",
-      "name": "ﾊﾟｰｸｻｲﾄﾞ泉Ⅱ 201",
-      "address": "愛知県春日井市大手町2-53-1",
-      "postal_code": "486-0807",
-      "prefecture": "愛知県",
-      "city": "春日井市大手町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0346",
@@ -4155,18 +2068,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0347",
-      "name": "ﾊﾟｰｸｻｲﾄﾞﾊｲﾂA棟105",
-      "address": "岡山県岡山市北区北長瀬本町4番8号",
-      "postal_code": "700-0961",
-      "prefecture": "岡山県",
-      "city": "岡山市北区北長瀬本町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0348",
       "name": "ﾊﾟｰｸﾀｳﾝ平島D201",
       "address": "愛知県弥富市平島町甲新田82番地１",
@@ -4179,18 +2080,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0349",
-      "name": "ﾊﾟｰｸﾊｲｱｯﾄ303",
-      "address": "愛知県碧南市西山町1-41",
-      "postal_code": "447-0064",
-      "prefecture": "愛知県",
-      "city": "碧南市西山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0350",
       "name": "ﾋﾞｰﾌﾘｰ8 203号",
       "address": "愛知県弥富市鯏浦町南前新田83-1",
@@ -4201,42 +2090,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0351",
-      "name": "ﾋﾞｱﾝｺ・ﾈﾛB102",
-      "address": "岡山県井原市木之子町82-1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0352",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ",
-      "address": "岡山県岡山市北区御津矢原335-16",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津矢原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0353",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ1-106",
-      "address": "岡山県井原市木之子町94番地1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0354",
@@ -4263,42 +2116,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0356",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ1-307",
-      "address": "岡山県岡山市北区御津下田77番地3",
-      "postal_code": "709-2134",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津下田",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0357",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ1-403",
-      "address": "岡山県岡山市北区御津下田77-3",
-      "postal_code": "709-2134",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津下田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0358",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ1棟310号",
-      "address": "岐阜県恵那市大井町2087-170",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0359",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ2-309",
       "address": "愛知県大府市東新町3-11",
@@ -4311,42 +2128,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0360",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ2号棟106",
-      "address": "岡山県井原市木之子町94番地1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0361",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ2号棟304",
-      "address": "岡山県岡山市北区御津下田77",
-      "postal_code": "709-2134",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津下田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0362",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ2棟401",
-      "address": "山口県別府市大字田島545-2",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "別府市大字田島",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0363",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ亀崎2号棟301",
       "address": "愛知県半田市亀崎高根町2丁目20-7",
@@ -4357,30 +2138,6 @@
       "status": "occupied",
       "capacity": 8,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0364",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ井之口1棟2",
-      "address": "愛知県稲沢市井之口大坪町79-1",
-      "postal_code": "492-8164",
-      "prefecture": "愛知県",
-      "city": "稲沢市井之口大坪町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0365",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ京ヶ峰ﾀﾜｰ1",
-      "address": "愛知県豊田市京ヶ峰1-24-2",
-      "postal_code": "471-0005",
-      "prefecture": "愛知県",
-      "city": "豊田市京ヶ峰",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0366",
@@ -4419,18 +2176,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0369",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川1棟402号",
-      "address": "岡山県岡山市北区美津下田77番地3",
-      "postal_code": "709-2107",
-      "prefecture": "岡山県",
-      "city": "岡山市北区美津下田",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0370",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2-402",
       "address": "岡山県岡山市北区御津下田77-3",
@@ -4455,30 +2200,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0372",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2号棟405",
-      "address": "岡山県岡山市北区御津下田77番地3",
-      "postal_code": "709-2134",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津下田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0373",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2号棟A302",
-      "address": "岡山県岡山市北区御津下田77-3",
-      "postal_code": "709-2133",
-      "prefecture": "岡山県",
-      "city": "岡山市北区御津下田",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0374",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川　207号",
       "address": "岡山県岡山市北区御津下田77-3",
@@ -4491,18 +2212,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0375",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ山中2-304",
-      "address": "愛知県東海市冨木島町山中80-1",
-      "postal_code": "476-0011",
-      "prefecture": "愛知県",
-      "city": "東海市冨木島町山中",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0376",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ山北4号棟",
       "address": "愛知県小牧市小牧大字3522番地",
@@ -4513,18 +2222,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0377",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ山北5 304号",
-      "address": "愛知県小牧市大字小牧3522",
-      "postal_code": "485-0041",
-      "prefecture": "愛知県",
-      "city": "小牧市大字小牧",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0378",
@@ -4551,30 +2248,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0380",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那1号棟104",
-      "address": "岐阜県恵那市大井町2087-170",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0381",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那1号棟403",
-      "address": "岐阜県恵那市大井町2087-170",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0382",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那1号棟406",
       "address": "岐阜県恵那市大井町2087-170",
@@ -4585,18 +2258,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0383",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那2号棟309",
-      "address": "岐阜県恵那市大井町2087-170",
-      "postal_code": "509-7201",
-      "prefecture": "岐阜県",
-      "city": "恵那市大井町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0384",
@@ -4618,69 +2279,9 @@
       "prefecture": "岐阜県",
       "city": "恵那市大井町",
       "employee_count": 1,
-      "status": "available",
+      "status": "occupied",
       "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0386",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ木之子1-104",
-      "address": "岡山県井原市木之子町94番地1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0387",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ木之子1-304",
-      "address": "岡山県井原市木之子町94番地1",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0388",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ木之子1-403",
-      "address": "岡山県井原市木之子町94番地１",
-      "postal_code": "715-0004",
-      "prefecture": "岡山県",
-      "city": "井原市木之子町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0389",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ横根5号棟307",
-      "address": "愛知県大府市横根町平子74",
-      "postal_code": "474-0011",
-      "prefecture": "愛知県",
-      "city": "大府市横根町平子",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0390",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ湯山1号棟104号室",
-      "address": "愛知県高浜市湯山町八丁目13番地21",
-      "postal_code": "444-1332",
-      "prefecture": "愛知県",
-      "city": "高浜市湯山町八",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
+      "current_occupants": 1
     },
     {
       "apartment_code": "APT0391",
@@ -4705,18 +2306,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0393",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ玉原208",
-      "address": "岡山県玉野市玉原2-11-3",
-      "postal_code": "706-0014",
-      "prefecture": "岡山県",
-      "city": "玉野市玉原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0394",
@@ -4755,30 +2344,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0397",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ西秦4-501",
-      "address": "愛知県碧南市平山町3丁目16番地",
-      "postal_code": "447-0011",
-      "prefecture": "愛知県",
-      "city": "碧南市平山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0398",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ西端1号棟302",
-      "address": "愛知県碧南市平山町3丁目16番地",
-      "postal_code": "447-0011",
-      "prefecture": "愛知県",
-      "city": "碧南市平山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0399",
       "name": "ﾋﾞﾚｯｼﾞﾊｳｽ野田5-405",
       "address": "愛知県刈谷市野田町一本木27-1",
@@ -4789,42 +2354,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0400",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ長草2号棟203",
-      "address": "愛知県大府市長草町新池8",
-      "postal_code": "474-0052",
-      "prefecture": "愛知県",
-      "city": "大府市長草町新池",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0401",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ長草3号棟202",
-      "address": "愛知県大府市長草町新池8",
-      "postal_code": "474-0052",
-      "prefecture": "愛知県",
-      "city": "大府市長草町新池",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0402",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ長草5号棟104",
-      "address": "愛知県大府市長草町新池8",
-      "postal_code": "474-0052",
-      "prefecture": "愛知県",
-      "city": "大府市長草町新池",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0403",
@@ -4851,30 +2380,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0405",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ高取3号棟102号",
-      "address": "愛知県高浜市湯山町4丁目9番地6",
-      "postal_code": "444-1332",
-      "prefecture": "愛知県",
-      "city": "高浜市湯山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0406",
-      "name": "ﾋﾞﾚｯｼﾞﾊｳｽ高取4号棟110号室",
-      "address": "愛知県高浜市湯山町4丁目9番地6",
-      "postal_code": "444-1332",
-      "prefecture": "愛知県",
-      "city": "高浜市湯山町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0407",
       "name": "ﾋﾟｭｱ里中406号",
       "address": "兵庫県西宮市里中町3丁目6番7",
@@ -4885,18 +2390,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0408",
-      "name": "ﾌｧﾐｰﾙいずえ102",
-      "address": "岡山県井原市高屋町1丁目20-11",
-      "postal_code": "715-0021",
-      "prefecture": "岡山県",
-      "city": "井原市高屋町",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0409",
@@ -4935,18 +2428,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0412",
-      "name": "ﾌｨﾚﾝﾂｪ弥冨2-406",
-      "address": "愛知県弥富市鯏浦町東気開51番地1",
-      "postal_code": "498-0021",
-      "prefecture": "愛知県",
-      "city": "弥富市鯏浦町東気開",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0413",
       "name": "ﾌｪﾘｽA103",
       "address": "静岡県袋井市久能2810番地1",
@@ -4971,18 +2452,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0415",
-      "name": "ﾌｫﾝﾃｲﾝ宮前203",
-      "address": "愛知県豊川市一宮町宮前125",
-      "postal_code": "441-1231",
-      "prefecture": "愛知県",
-      "city": "豊川市一宮町宮前",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0416",
       "name": "ﾌﾚｸﾞﾗﾝｽ桂A棟201号",
       "address": "愛知県弥富市平島町喜右味名78-1",
@@ -4993,18 +2462,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0417",
-      "name": "ﾌﾚｸﾞﾗﾝｽ桂E棟102号",
-      "address": "愛知県弥富市平島町喜右味名78-1",
-      "postal_code": "498-0025",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町喜右味名",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0418",
@@ -5043,30 +2500,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0421",
-      "name": "ﾌﾞﾗﾝｼｪHiroB",
-      "address": "愛知県新城市石田字南畑51-1",
-      "postal_code": "441-1342",
-      "prefecture": "愛知県",
-      "city": "新城市石田字南畑",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0422",
-      "name": "ﾌﾟﾁｼｬﾄｰ101号室",
-      "address": "愛知県愛知郡東郷町大字春木字涼松228-6",
-      "postal_code": "470-0162",
-      "prefecture": "愛知県",
-      "city": "愛知郡東郷町大字春木字涼松",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0423",
       "name": "ﾌﾟﾁｾｿﾞﾝ101号",
       "address": "静岡県袋井市堀越1-21-9",
@@ -5101,18 +2534,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0426",
-      "name": "ﾌﾟﾚｱｰﾙ恩智Ⅱ202号",
-      "address": "大阪府八尾市恩智南町1ー130",
-      "postal_code": "581-0884",
-      "prefecture": "大阪府",
-      "city": "八尾市恩智南町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0427",
@@ -5247,54 +2668,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0438",
-      "name": "ﾏﾝｼｮﾝ早河302号室",
-      "address": "愛知県名古屋市中村区小鴨町72番地",
-      "postal_code": "453-0844",
-      "prefecture": "愛知県",
-      "city": "名古屋市中村区小鴨町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0439",
-      "name": "ﾐﾉﾔ弥冨ﾊｲﾂ502",
-      "address": "愛知県弥富市前ヶ須町南本田522-１",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ヶ須町南本田",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0440",
-      "name": "ﾑｰﾝｼｬﾄｰ3M4号",
-      "address": "静岡県袋井市月見町1-11",
-      "postal_code": "437-0126",
-      "prefecture": "静岡県",
-      "city": "袋井市月見町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0441",
-      "name": "ﾒｿﾞﾝT&T202",
-      "address": "岐阜県大垣市荒川町303番地1",
-      "postal_code": "503-0993",
-      "prefecture": "岐阜県",
-      "city": "大垣市荒川町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0442",
       "name": "ﾒｿﾞﾝ辻山102",
       "address": "愛知県春日井市高山町4丁目13-13",
@@ -5329,30 +2702,6 @@
       "status": "occupied",
       "capacity": 6,
       "current_occupants": 2
-    },
-    {
-      "apartment_code": "APT0445",
-      "name": "ﾒｿﾞﾝ･ﾎﾟﾌﾟﾘｶ201",
-      "address": "山口県防府市大字田島1969-1",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "防府市大字田島",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0446",
-      "name": "ﾒｿﾞﾝｶｰｽﾙ101",
-      "address": "愛知県海部郡蟹江町城1-198",
-      "postal_code": "497-0040",
-      "prefecture": "愛知県",
-      "city": "海部郡蟹江町城",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0447",
@@ -5415,18 +2764,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0452",
-      "name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ203",
-      "address": "愛知県半田市一ノ草町201-11",
-      "postal_code": "475-0078",
-      "prefecture": "愛知県",
-      "city": "半田市一ノ草町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0453",
       "name": "ﾗ･ﾎﾞﾝｼｬｽ201",
       "address": "愛知県春日井市高山町4-5-1",
@@ -5475,18 +2812,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0457",
-      "name": "ﾗｸﾞﾘｼｰﾅⅠ104",
-      "address": "山口県防府市大字田島395番地",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "防府市大字田島",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0458",
       "name": "ﾗﾊﾞﾝｼﾞｰﾙ大国3 603号",
       "address": "大阪府大阪市西成区花園北1丁目5番6",
@@ -5523,30 +2848,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0461",
-      "name": "ﾗﾌｨｰﾈﾔﾄﾐ2E",
-      "address": "愛知県弥富市前ケ須町南本田401-6",
-      "postal_code": "498-0017",
-      "prefecture": "愛知県",
-      "city": "弥富市前ケ須町南本田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0462",
-      "name": "ﾗﾌｨﾈRS　A-102",
-      "address": "愛知県弥富市鯏浦町西前新田97-1",
-      "postal_code": "498-0024",
-      "prefecture": "愛知県",
-      "city": "弥富市鯏浦町西前新田",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0463",
       "name": "ﾗﾌｨﾈYS C-101",
       "address": "愛知県弥富市鯏浦町西前新田159-1",
@@ -5557,18 +2858,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0464",
-      "name": "ﾘｳﾞｪｰﾙ築地口102号",
-      "address": "愛知県名古屋市港区佐野町3-33",
-      "postal_code": "455-0042",
-      "prefecture": "愛知県",
-      "city": "名古屋市港区佐野町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0465",
@@ -5655,42 +2944,6 @@
       "current_occupants": 2
     },
     {
-      "apartment_code": "APT0472",
-      "name": "ﾚｵﾊﾟﾚｽTSおおつか115号",
-      "address": "滋賀県彦根市南川瀬町1542-1",
-      "postal_code": "522-0222",
-      "prefecture": "滋賀県",
-      "city": "彦根市南川瀬町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0473",
-      "name": "ﾚｵﾊﾟﾚｽわしず103",
-      "address": "静岡県袋井市鷲巣950-1",
-      "postal_code": "437-0017",
-      "prefecture": "静岡県",
-      "city": "袋井市鷲巣",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0474",
-      "name": "ﾚｵﾊﾟﾚｽ上り屋敷ﾂｷﾐ306号",
-      "address": "愛知県豊田市月見町3-2-5",
-      "postal_code": "471-0033",
-      "prefecture": "愛知県",
-      "city": "豊田市月見町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0475",
       "name": "ﾚｵﾊﾟﾚｽ田戸113",
       "address": "愛知県高浜市田戸町3-1-28",
@@ -5713,30 +2966,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 1
-    },
-    {
-      "apartment_code": "APT0477",
-      "name": "ﾚｵﾊﾟﾚｽｳｯﾄﾞｶｼﾊﾗ203号",
-      "address": "愛知県春日井市柏原5-241",
-      "postal_code": "486-0913",
-      "prefecture": "愛知県",
-      "city": "春日井市柏原",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0478",
-      "name": "ﾚｵﾊﾟﾚｽｻﾝﾗｲｽﾞ103",
-      "address": "兵庫県尼崎市稲葉荘1-26-12",
-      "postal_code": "660-0064",
-      "prefecture": "兵庫県",
-      "city": "尼崎市稲葉荘",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0479",
@@ -5799,30 +3028,6 @@
       "current_occupants": 1
     },
     {
-      "apartment_code": "APT0484",
-      "name": "ﾚｼﾞﾃﾞﾝｽ住吉102",
-      "address": "愛知県半田市住吉町2丁目124番地1",
-      "postal_code": "475-0862",
-      "prefecture": "愛知県",
-      "city": "半田市住吉町",
-      "employee_count": 1,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
-      "apartment_code": "APT0485",
-      "name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱA201",
-      "address": "愛知県弥富市平島町北広畑10-1",
-      "postal_code": "498-0031",
-      "prefecture": "愛知県",
-      "city": "弥富市平島町北広畑",
-      "employee_count": 3,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
-    },
-    {
       "apartment_code": "APT0486",
       "name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱB202",
       "address": "愛知県弥富市平島町北広畑10-1",
@@ -5857,18 +3062,6 @@
       "status": "occupied",
       "capacity": 4,
       "current_occupants": 3
-    },
-    {
-      "apartment_code": "APT0489",
-      "name": "ﾛｼﾞｭﾏﾝ千希A201号",
-      "address": "山口県防府市大字田島531-1",
-      "postal_code": "747-0834",
-      "prefecture": "山口県",
-      "city": "防府市大字田島",
-      "employee_count": 2,
-      "status": "available",
-      "capacity": 4,
-      "current_occupants": 0
     },
     {
       "apartment_code": "APT0490",
