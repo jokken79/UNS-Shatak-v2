@@ -1,0 +1,16 @@
+factory_code,name,name_japanese,address,city,prefecture,postal_code,phone,contact_person,contact_email,notes
+FAC001,Toyota Motor Kariya Plant,トヨタ自動車刈谷工場,1 Toyota-cho,Kariya,Aichi,448-8671,0566-28-2121,Tanaka Taro,tanaka@toyota.co.jp,Main assembly plant
+FAC002,Honda Suzuka Factory,ホンダ鈴鹿製作所,1907 Hirano-cho,Suzuka,Mie,513-8543,059-370-1111,Suzuki Hanako,suzuki@honda.co.jp,Motorcycle and automobile production
+FAC003,Denso Anjo Plant,デンソー安城製作所,1-1 Showa-cho,Anjo,Aichi,446-8501,0566-76-1511,Yamamoto Kenji,yamamoto@denso.co.jp,Automotive components
+FAC004,Aisin Kariya Plant,アイシン刈谷工場,2-1 Asahi-machi,Kariya,Aichi,448-8650,0566-24-8441,Sato Yuki,sato@aisin.co.jp,Transmission parts
+FAC005,Toyota Boshoku Kariya,トヨタ紡織刈谷工場,1-1 Toyoda-cho,Kariya,Aichi,448-8651,0566-23-6611,Ito Takeshi,ito@toyota-boshoku.co.jp,Interior components
+FAC006,Toyoda Gosei Haruhi,豊田合成春日工場,1 Haruhi,Kiyosu,Aichi,452-8564,052-400-1055,Nakamura Ryo,nakamura@toyoda-gosei.co.jp,Rubber and plastic parts
+FAC007,Mitsubishi Motors Okazaki,三菱自動車岡崎製作所,1 Hashime-cho,Okazaki,Aichi,444-8501,0564-31-3100,Watanabe Ken,watanabe@mitsubishi-motors.co.jp,Vehicle assembly
+FAC008,Subaru Gunma Main Plant,SUBARU群馬製作所本工場,1-1 Subaru-cho,Ota,Gunma,373-8555,0276-48-3111,Kobayashi Mai,kobayashi@subaru.co.jp,Automobile manufacturing
+FAC009,Nissan Kyushu Plant,日産自動車九州工場,3-1 Shinmoji-kita,Kanda,Fukuoka,800-0395,093-435-1111,Yoshida Akira,yoshida@nissan.co.jp,Vehicle production
+FAC010,Mazda Hiroshima Plant,マツダ広島本社工場,3-1 Shinchi,Fuchu,Hiroshima,730-8670,082-282-1111,Tanaka Mika,m.tanaka@mazda.co.jp,Main production facility
+FAC011,Isuzu Fujisawa Plant,いすゞ藤沢工場,8 Tsuchidana,Fujisawa,Kanagawa,252-8501,0466-81-2111,Kato Shota,kato@isuzu.co.jp,Truck manufacturing
+FAC012,Hino Hamura Plant,日野自動車羽村工場,3-1 Midori-cho,Hamura,Tokyo,205-8660,042-579-0411,Saito Yumi,saito@hino.co.jp,Commercial vehicles
+FAC013,Suzuki Kosai Plant,スズキ湖西工場,300 Takatsuka,Kosai,Shizuoka,431-0493,053-576-2111,Hayashi Taro,hayashi@suzuki.co.jp,Compact car production
+FAC014,Daihatsu Ikeda Plant,ダイハツ池田工場,1-1 Daihatsu-cho,Ikeda,Osaka,563-8651,072-751-8811,Mori Keiko,mori@daihatsu.co.jp,Light vehicle manufacturing
+FAC015,JTEKT Kariya Plant,ジェイテクト刈谷工場,1-3 Asahi-machi,Kariya,Aichi,448-8652,0566-25-2323,Ueda Ryota,ueda@jtekt.co.jp,Steering systems
