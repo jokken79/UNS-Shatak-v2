@@ -6,7 +6,7 @@ import { useAuthStore } from "@/stores/auth";
 import { useThemeStore, applyTheme } from "@/stores/theme";
 import { Button } from "@/components/ui";
 import { ThemeToggle } from "@/components/ThemeToggle";
-import { Building2, Home, Users, Factory, Upload, LogOut, Menu } from "lucide-react";
+import { Building2, Home, Users, Factory, Upload, LogOut, Menu, Database } from "lucide-react";
 import { useState } from "react";
 
 const navItems = [
@@ -15,6 +15,7 @@ const navItems = [
   { href: "/dashboard/employees", label: "Employees", icon: Users, labelJp: "従業員" },
   { href: "/dashboard/factories", label: "Factories", icon: Factory, labelJp: "派遣先" },
   { href: "/dashboard/import", label: "Import", icon: Upload, labelJp: "インポート" },
+  { href: "/dashboard/data", label: "Data", icon: Database, labelJp: "データ管理" },
 ];
 
 export default function DashboardLayout({ children }: { children: React.ReactNode }) {

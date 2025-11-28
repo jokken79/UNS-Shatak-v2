@@ -1,0 +1,3571 @@
+{
+  "total_assignments": 396,
+  "generated_at": "2025-11-28T16:50:43.326967",
+  "note": "Solo asignaciones de empleados activos",
+  "assignments": [
+    {
+      "employee_code": "EMP200901",
+      "employee_name": "VU VAN THANG",
+      "apartment_code": "APT0479",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK203",
+      "move_in_date": "2020-11-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210106",
+      "employee_name": "NGUYEN DUC THANH",
+      "apartment_code": "APT0196",
+      "apartment_name": "県営長根住宅7棟406号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210112",
+      "employee_name": "NGUYEN QUANG QUYEN",
+      "apartment_code": "APT0246",
+      "apartment_name": "ｴｸｾｰﾗ201号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210117",
+      "employee_name": "NGUYEN TUAN ANH",
+      "apartment_code": "APT0330",
+      "apartment_name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西A101",
+      "move_in_date": "2021-01-16",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210207",
+      "employee_name": "MA VAN THUY",
+      "apartment_code": "APT0247",
+      "apartment_name": "ｴｸｾｰﾗ301号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP200803",
+      "employee_name": "NGUYEN QUANG HUNG",
+      "apartment_code": "APT0191",
+      "apartment_name": "県営長根住宅5棟303号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210406",
+      "employee_name": "MAI HUNG ANH",
+      "apartment_code": "APT0252",
+      "apartment_name": "ｷｬﾝﾊﾟｽみずほⅡ203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210421",
+      "employee_name": "VU NGOC HAI",
+      "apartment_code": "APT0326",
+      "apartment_name": "ﾄﾗｯﾄﾞｼﾏﾀﾞ203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210507",
+      "employee_name": "VI VAN NHI",
+      "apartment_code": "APT0077",
+      "apartment_name": "各務ﾊｲﾂ4J",
+      "move_in_date": "2022-07-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210602",
+      "employee_name": "BUI DUC KHANG",
+      "apartment_code": "APT0135",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ205",
+      "move_in_date": "2022-10-30",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210712",
+      "employee_name": "TRAN CONG PHUONG",
+      "apartment_code": "APT0286",
+      "apartment_name": "ｺﾝﾂｪﾙﾊｳｽⅡD棟201",
+      "move_in_date": "2021-07-19",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210811",
+      "employee_name": "LE DOAN ANH",
+      "apartment_code": "APT0071",
+      "apartment_name": "各務ﾊｲﾂ3D",
+      "move_in_date": "2021-08-04",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210910",
+      "employee_name": "DUONG VAN THIEP",
+      "apartment_code": "APT0269",
+      "apartment_name": "ｸﾞﾘｰﾝﾊｲﾂA棟201",
+      "move_in_date": "2021-09-19",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211006",
+      "employee_name": "島田　富佐男",
+      "apartment_code": "APT0367",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ吉井1号棟107号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211010",
+      "employee_name": "HIRATA AISAWA ALEXANDRE HIROSHI",
+      "apartment_code": "APT0284",
+      "apartment_name": "ｺﾝﾂｪﾙﾊｳｽB棟106",
+      "move_in_date": "2022-02-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211214",
+      "employee_name": "NGUYEN VAN DUC",
+      "apartment_code": "APT0101",
+      "apartment_name": "府営住宅6-1003号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220104",
+      "employee_name": "NGUYEN VAN CUONG",
+      "apartment_code": "APT0113",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ205",
+      "move_in_date": "2021-12-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210608",
+      "employee_name": "NGUYEN VAN HONG",
+      "apartment_code": "APT0471",
+      "apartment_name": "ﾙﾐｴｰﾙ上池203",
+      "move_in_date": "2021-10-03",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220116",
+      "employee_name": "NGUYEN VAN CANH",
+      "apartment_code": "APT0486",
+      "apartment_name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱB202",
+      "move_in_date": "2022-01-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220130",
+      "employee_name": "NGUYEN VAN HUNG",
+      "apartment_code": "APT0322",
+      "apartment_name": "ﾀﾞｲｺｰﾏﾝｼｮﾝ302",
+      "move_in_date": "2022-03-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220210",
+      "employee_name": "HOANG ANH TUAN",
+      "apartment_code": "APT0301",
+      "apartment_name": "ｼｬﾙﾏﾝA101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220108",
+      "employee_name": "NGUYEN TIEN HAI",
+      "apartment_code": "APT0187",
+      "apartment_name": "県営長根住宅10棟402号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220309",
+      "employee_name": "DANG DUC CHIEN",
+      "apartment_code": "APT0431",
+      "apartment_name": "ﾍﾞﾙﾄﾋﾟｱ住吉307号室",
+      "move_in_date": "2022-03-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220302",
+      "employee_name": "TRAN VAN NHAT",
+      "apartment_code": "APT0354",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ1-204",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220406",
+      "employee_name": "IPAL FEBRI NARTA",
+      "apartment_code": "APT0133",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ202",
+      "move_in_date": "2022-04-05",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220502",
+      "employee_name": "THACH VAN DAI",
+      "apartment_code": "APT0050",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ206",
+      "move_in_date": "2022-05-06",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220504",
+      "employee_name": "VU DINH SON",
+      "apartment_code": "APT0467",
+      "apartment_name": "ﾘﾝﾋﾟｱ長斉302",
+      "move_in_date": "2023-04-09",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220503",
+      "employee_name": "HA VIET THUY",
+      "apartment_code": "APT0020",
+      "apartment_name": "CASA弥冨B203",
+      "move_in_date": "2022-04-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220505",
+      "employee_name": "DANG THIN VIET",
+      "apartment_code": "APT0020",
+      "apartment_name": "CASA弥冨B203",
+      "move_in_date": "2022-04-24",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220508",
+      "employee_name": "TRAN VAN HIEU",
+      "apartment_code": "APT0335",
+      "apartment_name": "ﾊｰﾓﾆｰ201",
+      "move_in_date": "2022-04-29",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220511",
+      "employee_name": "DUONG VAN TOAN",
+      "apartment_code": "APT0467",
+      "apartment_name": "ﾘﾝﾋﾟｱ長斉302",
+      "move_in_date": "2023-04-09",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220515",
+      "employee_name": "NGUYEN VAN HIEN",
+      "apartment_code": "APT0465",
+      "apartment_name": "ﾘﾗｲｱﾝ楓A-201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220521",
+      "employee_name": "NGUYEN VIET CUONG",
+      "apartment_code": "APT0078",
+      "apartment_name": "各務ﾊｲﾂ6A",
+      "move_in_date": "2022-05-23",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220522",
+      "employee_name": "NGUYEN DINH THANH",
+      "apartment_code": "APT0016",
+      "apartment_name": "BeehiveresidenceⅦ102",
+      "move_in_date": "2022-05-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220524",
+      "employee_name": "PHUNG MANH TUAN",
+      "apartment_code": "APT0213",
+      "apartment_name": "高安一番館403",
+      "move_in_date": "2022-06-20",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220602",
+      "employee_name": "PHAM THANH LONG",
+      "apartment_code": "APT0319",
+      "apartment_name": "ﾀｳﾆｰﾊﾝﾀﾞC201",
+      "move_in_date": "2022-06-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220603",
+      "employee_name": "VU ANH VUONG",
+      "apartment_code": "APT0317",
+      "apartment_name": "ｾﾗﾀｳﾝ弥冨C棟201",
+      "move_in_date": "2022-06-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220605",
+      "employee_name": "FERRYANTO PASCA MARIS UPPUN",
+      "apartment_code": "APT0107",
+      "apartment_name": "成広矢原ｺｰﾎﾟ7 106",
+      "move_in_date": "2022-06-05",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220606",
+      "employee_name": "WIDIARTO IFTIAR",
+      "apartment_code": "APT0153",
+      "apartment_name": "成広ｺｰﾎﾟⅠ202",
+      "move_in_date": "2022-01-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220609",
+      "employee_name": "TRAN HUU HUNG",
+      "apartment_code": "APT0487",
+      "apartment_name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱB205",
+      "move_in_date": "2022-06-04",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220709",
+      "employee_name": "ILHAM",
+      "apartment_code": "APT0144",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅦ102号",
+      "move_in_date": "2022-10-15",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220710",
+      "employee_name": "YASSER RIDHA MUSLIM",
+      "apartment_code": "APT0044",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ102",
+      "move_in_date": "2023-04-08",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220711",
+      "employee_name": "SUALDIN",
+      "apartment_code": "APT0045",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ201",
+      "move_in_date": "2023-06-10",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220712",
+      "employee_name": "LA LANI",
+      "apartment_code": "APT0160",
+      "apartment_name": "成広ｺｰﾎﾟⅡ202",
+      "move_in_date": "2022-07-08",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220714",
+      "employee_name": "MOCHAMAD NIZAR AWALUDIN",
+      "apartment_code": "APT0139",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ103",
+      "move_in_date": "2022-07-08",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220707",
+      "employee_name": "NGUYEN VAN SANG",
+      "apartment_code": "APT0425",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ203号",
+      "move_in_date": "2022-07-14",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220718",
+      "employee_name": "VU DUC QUOC DAT",
+      "apartment_code": "APT0078",
+      "apartment_name": "各務ﾊｲﾂ6A",
+      "move_in_date": "2022-07-31",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220812",
+      "employee_name": "NGUYEN DINH DUC",
+      "apartment_code": "APT0130",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ102",
+      "move_in_date": "2022-07-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220808",
+      "employee_name": "THIEU QUANG TINH",
+      "apartment_code": "APT0245",
+      "apartment_name": "ｴｸｾｰﾗ103号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220903",
+      "employee_name": "NGUYEN HUU THANG",
+      "apartment_code": "APT0073",
+      "apartment_name": "各務ﾊｲﾂ3F",
+      "move_in_date": "2022-09-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220908",
+      "employee_name": "THAI HUY DUC",
+      "apartment_code": "APT0232",
+      "apartment_name": "ｱﾙｿｰﾚD102",
+      "move_in_date": "2022-09-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220915",
+      "employee_name": "BUI VAN DOAN",
+      "apartment_code": "APT0173",
+      "apartment_name": "県住4号棟307号",
+      "move_in_date": "2022-09-16",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220921",
+      "employee_name": "HO DINH DUONG",
+      "apartment_code": "APT0481",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK301",
+      "move_in_date": "2022-09-23",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220314",
+      "employee_name": "HOANG TRUNG HIEU",
+      "apartment_code": "APT0483",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK305",
+      "move_in_date": "2022-10-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221005",
+      "employee_name": "NGUYEN TAT DIEP",
+      "apartment_code": "APT0071",
+      "apartment_name": "各務ﾊｲﾂ3D",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221102",
+      "employee_name": "NGUYEN QUOC DAT",
+      "apartment_code": "APT0019",
+      "apartment_name": "CASA弥冨A203",
+      "move_in_date": "2022-11-04",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221103",
+      "employee_name": "MAI THI QUYEN",
+      "apartment_code": "APT0391",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ牛山3棟404",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221203",
+      "employee_name": "LE NHU ANH",
+      "apartment_code": "APT0073",
+      "apartment_name": "各務ﾊｲﾂ3F",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221202",
+      "employee_name": "LE VIET DUNG",
+      "apartment_code": "APT0169",
+      "apartment_name": "村上貸家",
+      "move_in_date": "2022-11-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221207",
+      "employee_name": "PHAM TRUNG DUNG",
+      "apartment_code": "APT0306",
+      "apartment_name": "ｼｬﾝﾄﾞﾌﾙｰﾙ103",
+      "move_in_date": "2022-12-02",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221212",
+      "employee_name": "NGUYEN MANH KHAI",
+      "apartment_code": "APT0198",
+      "apartment_name": "社宅　一軒家",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221216",
+      "employee_name": "KIEU DUC TUAN",
+      "apartment_code": "APT0198",
+      "apartment_name": "社宅　一軒家",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221211",
+      "employee_name": "TA DUC TUAN",
+      "apartment_code": "APT0306",
+      "apartment_name": "ｼｬﾝﾄﾞﾌﾙｰﾙ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221209",
+      "employee_name": "TRAN DUC TRUONG",
+      "apartment_code": "APT0222",
+      "apartment_name": "ｱﾄﾚA棟106",
+      "move_in_date": "2024-07-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230101",
+      "employee_name": "ZARATE SAKUDA SERGIO EDUARDO",
+      "apartment_code": "APT0466",
+      "apartment_name": "ﾘﾝﾋﾟｱ長斉203",
+      "move_in_date": "2022-12-29",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230102",
+      "employee_name": "NGUYEN THI QUYEN",
+      "apartment_code": "APT0376",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ山北4号棟",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230105",
+      "employee_name": "PHAM VAN THANH",
+      "apartment_code": "APT0395",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ田島2棟305号",
+      "move_in_date": "2023-01-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230106",
+      "employee_name": "DAO TIEN KHANH",
+      "apartment_code": "APT0413",
+      "apartment_name": "ﾌｪﾘｽA103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230109",
+      "employee_name": "NGUYEN THI HIEN",
+      "apartment_code": "APT0480",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK204",
+      "move_in_date": "2023-01-20",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230110",
+      "employee_name": "NGUYEN VAN TRUONG",
+      "apartment_code": "APT0304",
+      "apartment_name": "ｼｬﾙﾑ三田303",
+      "move_in_date": "2023-09-23",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230203",
+      "employee_name": "NGUYEN QUANG TRUONG",
+      "apartment_code": "APT0443",
+      "apartment_name": "ﾒｿﾞﾝ辻山105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220321",
+      "employee_name": "VU DUC THINH",
+      "apartment_code": "APT0363",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ亀崎2号棟301",
+      "move_in_date": "2023-01-29",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230209",
+      "employee_name": "LE  VAN THAO",
+      "apartment_code": "APT0490",
+      "apartment_name": "ﾛｼﾞｭﾏﾝ千希A202号",
+      "move_in_date": "2023-02-20",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230217",
+      "employee_name": "NGUYEN DANH TIEP",
+      "apartment_code": "APT0192",
+      "apartment_name": "県営長根住宅5棟306号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230302",
+      "employee_name": "PHAM TUAN ANH",
+      "apartment_code": "APT0448",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ101",
+      "move_in_date": "2023-05-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230303",
+      "employee_name": "BUI HUU KHOA",
+      "apartment_code": "APT0208",
+      "apartment_name": "金川一軒家",
+      "move_in_date": "2023-07-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230305",
+      "employee_name": "DANG MINH QUANG",
+      "apartment_code": "APT0208",
+      "apartment_name": "金川一軒家",
+      "move_in_date": "2023-07-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230309",
+      "employee_name": "BUI XUAN QUYET",
+      "apartment_code": "APT0403",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ高取2号棟103号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210710",
+      "employee_name": "NGUYEN XUAN THANG",
+      "apartment_code": "APT0190",
+      "apartment_name": "県営長根住宅1棟302号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230316",
+      "employee_name": "LE DINH BINH",
+      "apartment_code": "APT0232",
+      "apartment_name": "ｱﾙｿｰﾚD102",
+      "move_in_date": "2023-03-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230318",
+      "employee_name": "NGUYEN CANH HOANG",
+      "apartment_code": "APT0015",
+      "apartment_name": "BeehiveresidenceⅣ101",
+      "move_in_date": "2023-03-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230321",
+      "employee_name": "TRAN THANH HUNG",
+      "apartment_code": "APT0157",
+      "apartment_name": "成広ｺｰﾎﾟⅡ102",
+      "move_in_date": "2023-03-24",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230322",
+      "employee_name": "VO THANH PHONG",
+      "apartment_code": "APT0157",
+      "apartment_name": "成広ｺｰﾎﾟⅡ102",
+      "move_in_date": "2023-03-24",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230325",
+      "employee_name": "NGUYEN NGOC QUANG",
+      "apartment_code": "APT0155",
+      "apartment_name": "成広ｺｰﾎﾟⅡ-203",
+      "move_in_date": "2023-03-24",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230503",
+      "employee_name": "LE DUC THINH",
+      "apartment_code": "APT0220",
+      "apartment_name": "ｱｻﾋﾒｲﾄ202",
+      "move_in_date": "2023-05-10",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230505",
+      "employee_name": "NGUYEN VAN TY",
+      "apartment_code": "APT0021",
+      "apartment_name": "CASA弥富A105",
+      "move_in_date": "2023-05-10",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230507",
+      "employee_name": "DAU DUC NGUYEN",
+      "apartment_code": "APT0076",
+      "apartment_name": "各務ﾊｲﾂ4I",
+      "move_in_date": "2023-05-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230508",
+      "employee_name": "NGUYEN XUAN QUYET",
+      "apartment_code": "APT0076",
+      "apartment_name": "各務ﾊｲﾂ4I",
+      "move_in_date": "2023-05-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230602",
+      "employee_name": "NGUYEN VAN DU",
+      "apartment_code": "APT0420",
+      "apartment_name": "ﾌﾚｽｶｲﾄｳ301",
+      "move_in_date": "2023-05-31",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230604",
+      "employee_name": "DAO VAN LONG",
+      "apartment_code": "APT0110",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ103",
+      "move_in_date": "2023-06-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230608",
+      "employee_name": "NGUYEN GIA THO",
+      "apartment_code": "APT0110",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ103",
+      "move_in_date": "2023-06-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230611",
+      "employee_name": "NGUYEN DINH THANH",
+      "apartment_code": "APT0112",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ203",
+      "move_in_date": "2023-06-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230613",
+      "employee_name": "TRAN DINH THANH",
+      "apartment_code": "APT0215",
+      "apartment_name": "鶴松203",
+      "move_in_date": "2023-06-20",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220308",
+      "employee_name": "NGUYEN KHAC THIEN",
+      "apartment_code": "APT0200",
+      "apartment_name": "花水木C",
+      "move_in_date": "2023-04-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230704",
+      "employee_name": "DO VAN HIEP",
+      "apartment_code": "APT0379",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ岩倉206",
+      "move_in_date": "2023-10-08",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230706",
+      "employee_name": "HO THI NHUNG",
+      "apartment_code": "APT0132",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ201",
+      "move_in_date": "2024-01-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230713",
+      "employee_name": "NGUYEN VAN NAM",
+      "apartment_code": "APT0385",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那１棟403",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230714",
+      "employee_name": "THAI VAN HUNG",
+      "apartment_code": "APT0072",
+      "apartment_name": "各務ﾊｲﾂ3E",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230715",
+      "employee_name": "NGUYEN THANH LONG",
+      "apartment_code": "APT0075",
+      "apartment_name": "各務ﾊｲﾂ4H",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230801",
+      "employee_name": "NGUYEN TIEN DAT",
+      "apartment_code": "APT0069",
+      "apartment_name": "古橋ﾏﾝｼｮﾝ101",
+      "move_in_date": "2023-08-02",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230802",
+      "employee_name": "LE NHI",
+      "apartment_code": "APT0069",
+      "apartment_name": "古橋ﾏﾝｼｮﾝ101",
+      "move_in_date": "2023-08-02",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230808",
+      "employee_name": "NGUYEN CONG THANH",
+      "apartment_code": "APT0459",
+      "apartment_name": "ﾗﾌｨｰﾈ久能303号",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230811",
+      "employee_name": "NGUYEN VAN QUY",
+      "apartment_code": "APT0454",
+      "apartment_name": "ﾗｲﾌｺｱ119　301号",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230812",
+      "employee_name": "NGUYEN NGOC THANH",
+      "apartment_code": "APT0463",
+      "apartment_name": "ﾗﾌｨﾈYS C-101",
+      "move_in_date": "2023-07-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230815",
+      "employee_name": "NGUYEN VAN NGOC",
+      "apartment_code": "APT0443",
+      "apartment_name": "ﾒｿﾞﾝ辻山105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230817",
+      "employee_name": "NGUYEN VAN MINH",
+      "apartment_code": "APT0069",
+      "apartment_name": "古橋ﾏﾝｼｮﾝ101",
+      "move_in_date": "2023-08-02",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230901",
+      "employee_name": "TRAN XUAN HUNG",
+      "apartment_code": "APT0424",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ103号",
+      "move_in_date": "2023-08-28",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230907",
+      "employee_name": "NGUYEN TIEN THUONG",
+      "apartment_code": "APT0447",
+      "apartment_name": "ﾒｿﾞﾝﾄﾞﾗﾊﾟﾝⅡ203",
+      "move_in_date": "2023-09-11",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230909",
+      "employee_name": "DANG VAN TAN",
+      "apartment_code": "APT0430",
+      "apartment_name": "ﾍﾞﾙｺｰﾎﾟ202",
+      "move_in_date": "2023-09-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230912",
+      "employee_name": "NGUYEN SY PHUC",
+      "apartment_code": "APT0430",
+      "apartment_name": "ﾍﾞﾙｺｰﾎﾟ202",
+      "move_in_date": "2023-09-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230913",
+      "employee_name": "TRAN DUC CUONG",
+      "apartment_code": "APT0430",
+      "apartment_name": "ﾍﾞﾙｺｰﾎﾟ202",
+      "move_in_date": "2023-09-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230914",
+      "employee_name": "TRAN VAN THINH",
+      "apartment_code": "APT0243",
+      "apartment_name": "ｳﾞｨﾚﾁﾞﾌｫｰB101",
+      "move_in_date": "2023-09-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230915",
+      "employee_name": "NGUYEN TRUONG AN",
+      "apartment_code": "APT0243",
+      "apartment_name": "ｳﾞｨﾚﾁﾞﾌｫｰB101",
+      "move_in_date": "2023-09-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230916",
+      "employee_name": "HOANG TRONG NGHIA",
+      "apartment_code": "APT0184",
+      "apartment_name": "県営西亀崎住宅4棟404号",
+      "move_in_date": "2023-09-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230917",
+      "employee_name": "BUI MINH DUC",
+      "apartment_code": "APT0111",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ201",
+      "move_in_date": "2023-09-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230919",
+      "employee_name": "NGUYEN XUAN LAM",
+      "apartment_code": "APT0111",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ201",
+      "move_in_date": "2023-09-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230920",
+      "employee_name": "HA NGOC QUAN",
+      "apartment_code": "APT0116",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅡ102",
+      "move_in_date": "2023-09-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231001",
+      "employee_name": "VO MINH KHANG",
+      "apartment_code": "APT0344",
+      "apartment_name": "ﾊｲﾂ長嶋201",
+      "move_in_date": "2023-09-30",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231002",
+      "employee_name": "DINH TRONG DUONG",
+      "apartment_code": "APT0449",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231006",
+      "employee_name": "NGUYEN THANH SANG",
+      "apartment_code": "APT0432",
+      "apartment_name": "ﾍﾞﾙﾒｿﾞﾝ大山211",
+      "move_in_date": "2023-10-16",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231007",
+      "employee_name": "DUONG THI THANH NGUYET",
+      "apartment_code": "APT0482",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK304",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231102",
+      "employee_name": "DUONG THANH TUNG",
+      "apartment_code": "APT0259",
+      "apartment_name": "ｸﾞﾗﾝﾂｺｰﾄ402",
+      "move_in_date": "2023-10-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231103",
+      "employee_name": "LOC TRUNG THIEN",
+      "apartment_code": "APT0259",
+      "apartment_name": "ｸﾞﾗﾝﾂｺｰﾄ402",
+      "move_in_date": "2023-10-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231111",
+      "employee_name": "NGUYEN THI NGOC ANH",
+      "apartment_code": "APT0414",
+      "apartment_name": "ﾌｫｰﾌﾞﾙ神池102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231107",
+      "employee_name": "NGUYEN VAN LONG",
+      "apartment_code": "APT0259",
+      "apartment_name": "ｸﾞﾗﾝﾂｺｰﾄ402",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231108",
+      "employee_name": "HIRATA AIZAWA RODRIGO HIROSHI",
+      "apartment_code": "APT0284",
+      "apartment_name": "ｺﾝﾂｪﾙﾊｳｽB棟106",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231109",
+      "employee_name": "NGUYEN CONG DAT",
+      "apartment_code": "APT0409",
+      "apartment_name": "ﾌｨﾌﾃｨⅠ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210420",
+      "employee_name": "TRAN VAN HUY",
+      "apartment_code": "APT0166",
+      "apartment_name": "折口住宅3－7号",
+      "move_in_date": "2023-11-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231113",
+      "employee_name": "BUI NGOC SY",
+      "apartment_code": "APT0363",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ亀崎2号棟301",
+      "move_in_date": "2023-11-13",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231115",
+      "employee_name": "NGUYEN CONG LUONG",
+      "apartment_code": "APT0428",
+      "apartment_name": "ﾌﾟﾛﾑﾅｰﾄﾞⅡA102号",
+      "move_in_date": "2023-11-15",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231116",
+      "employee_name": "NGUYEN VAN THANH",
+      "apartment_code": "APT0429",
+      "apartment_name": "ﾌﾟﾛﾑﾅｰﾄﾞⅡA103号",
+      "move_in_date": "2023-11-15",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231201",
+      "employee_name": "HUYNH TRUONG HUONG",
+      "apartment_code": "APT0371",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2　308号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231207",
+      "employee_name": "HO VAN PHUONG",
+      "apartment_code": "APT0384",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那3-409",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231208",
+      "employee_name": "DANG MAU THIEN",
+      "apartment_code": "APT0074",
+      "apartment_name": "各務ﾊｲﾂ4E",
+      "move_in_date": "2023-11-30",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231206",
+      "employee_name": "PHAM VAN PHUONG",
+      "apartment_code": "APT0416",
+      "apartment_name": "ﾌﾚｸﾞﾗﾝｽ桂A棟201号",
+      "move_in_date": "2023-11-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231214",
+      "employee_name": "PHAM MINH LUC",
+      "apartment_code": "APT0152",
+      "apartment_name": "成広ｺｰﾎﾟⅠ105号室",
+      "move_in_date": "2023-11-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231209",
+      "employee_name": "NGUYEN DUY TAN",
+      "apartment_code": "APT0433",
+      "apartment_name": "ﾎｰﾌﾟｼﾃｨHIRO202",
+      "move_in_date": "2023-11-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231212",
+      "employee_name": "PHAM KHANH LINH",
+      "apartment_code": "APT0254",
+      "apartment_name": "ｸﾚｰﾙ103",
+      "move_in_date": "2023-11-27",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231215",
+      "employee_name": "VU NGOC LONG",
+      "apartment_code": "APT0424",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ103号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231216",
+      "employee_name": "NGUYEN DUY HIEU",
+      "apartment_code": "APT0424",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ103号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231217",
+      "employee_name": "NGUYEN VAN CHIEU",
+      "apartment_code": "APT0242",
+      "apartment_name": "ｳﾞｨﾗｺｰﾄ田園403",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231219",
+      "employee_name": "DUONG THI PHUONG",
+      "apartment_code": "APT0129",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231221",
+      "employee_name": "ADHITYA LUNDIKA",
+      "apartment_code": "APT0143",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ206",
+      "move_in_date": "2024-07-07",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220806",
+      "employee_name": "NGUYEN THE DANG",
+      "apartment_code": "APT0371",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2　308号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240103",
+      "employee_name": "LE VIET HUNG",
+      "apartment_code": "APT0174",
+      "apartment_name": "県営住宅8-307",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240104",
+      "employee_name": "NGUYEN THE HUY",
+      "apartment_code": "APT0014",
+      "apartment_name": "BeehiveresidenceⅢ201",
+      "move_in_date": "2024-01-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240105",
+      "employee_name": "TRAN QUOC KIET",
+      "apartment_code": "APT0335",
+      "apartment_name": "ﾊｰﾓﾆｰ201",
+      "move_in_date": "2024-01-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240106",
+      "employee_name": "TRAN VAN TOAN",
+      "apartment_code": "APT0220",
+      "apartment_name": "ｱｻﾋﾒｲﾄ202",
+      "move_in_date": "2024-01-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240107",
+      "employee_name": "LUU MINH HIEU",
+      "apartment_code": "APT0411",
+      "apartment_name": "ﾌｨﾌﾃｨｰⅡ102",
+      "move_in_date": "2024-01-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240108",
+      "employee_name": "NGUYEN CONG DAT",
+      "apartment_code": "APT0016",
+      "apartment_name": "BeehiveresidenceⅦ102",
+      "move_in_date": "2024-01-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240114",
+      "employee_name": "BUI VAN TRANG",
+      "apartment_code": "APT0382",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ恵那1号棟406",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240111",
+      "employee_name": "LE NHAT ANH",
+      "apartment_code": "APT0423",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ101号",
+      "move_in_date": "2024-01-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240112",
+      "employee_name": "TRAN TRUNG KIEN",
+      "apartment_code": "APT0017",
+      "apartment_name": "BeehiveresidenceⅨ202",
+      "move_in_date": "2024-01-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240113",
+      "employee_name": "NGUYEN PHUONG NAM",
+      "apartment_code": "APT0423",
+      "apartment_name": "ﾌﾟﾁｾｿﾞﾝ101号",
+      "move_in_date": "2024-01-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240117",
+      "employee_name": "DO XUAN LOI",
+      "apartment_code": "APT0243",
+      "apartment_name": "ｳﾞｨﾚﾁﾞﾌｫｰB101",
+      "move_in_date": "2024-01-23",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP201001",
+      "employee_name": "PHAM BA BACH",
+      "apartment_code": "APT0224",
+      "apartment_name": "ｱﾄﾚB棟205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240204",
+      "employee_name": "NGUYEN VU QUY",
+      "apartment_code": "APT0310",
+      "apartment_name": "ｼﾙﾊﾞｰﾊｲﾑ名四201号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240302",
+      "employee_name": "PHAN VAN QUAN",
+      "apartment_code": "APT0211",
+      "apartment_name": "飯田第二ｺｰﾎﾟ103",
+      "move_in_date": "2024-03-04",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240304",
+      "employee_name": "CAO VAN QUANG",
+      "apartment_code": "APT0117",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅡ102号",
+      "move_in_date": "2024-03-02",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240305",
+      "employee_name": "NGUYEN MINH THOAI",
+      "apartment_code": "APT0316",
+      "apartment_name": "ｾﾗﾀｳﾝ弥冨B棟101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240306",
+      "employee_name": "LE BA PHU",
+      "apartment_code": "APT0316",
+      "apartment_name": "ｾﾗﾀｳﾝ弥冨B棟101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240309",
+      "employee_name": "NGUYEN DUY HUNG",
+      "apartment_code": "APT0171",
+      "apartment_name": "港楽荘4棟102号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240311",
+      "employee_name": "NGUYEN MINH HIEU",
+      "apartment_code": "APT0488",
+      "apartment_name": "ﾛｼﾞｭﾏﾝ久能A棟203号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240312",
+      "employee_name": "NGUYEN HONG HIEU",
+      "apartment_code": "APT0488",
+      "apartment_name": "ﾛｼﾞｭﾏﾝ久能A棟203号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240314",
+      "employee_name": "PHAM HUNG LUONG",
+      "apartment_code": "APT0100",
+      "apartment_name": "平島中四丁目賃家",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240315",
+      "employee_name": "TRAN NGUYEN MINH KHOA",
+      "apartment_code": "APT0100",
+      "apartment_name": "平島中四丁目賃家",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240319",
+      "employee_name": "PHAN VAN HAI",
+      "apartment_code": "APT0481",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK301",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240317",
+      "employee_name": "NGUYEN ANH TUAN",
+      "apartment_code": "APT0334",
+      "apartment_name": "ﾊｯﾋﾟｰｳｲﾝ長尾201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210801",
+      "employee_name": "TRAN XUAN HUNG",
+      "apartment_code": "APT0029",
+      "apartment_name": "Florence1997 201号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240321",
+      "employee_name": "WATANABE MAYORGA ARMANDO JOSE",
+      "apartment_code": "APT0237",
+      "apartment_name": "ｱﾙﾃｰﾙ宮代A号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240322",
+      "employee_name": "TRAN VAN TIEN",
+      "apartment_code": "APT0355",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ1-304",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240324",
+      "employee_name": "TRAN VAN VIET",
+      "apartment_code": "APT0011",
+      "apartment_name": "904号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211211",
+      "employee_name": "TRAN VAN THAN",
+      "apartment_code": "APT0339",
+      "apartment_name": "ﾊｲﾂこうしんA棟101号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240403",
+      "employee_name": "NGUYEN VAN HOA",
+      "apartment_code": "APT0094",
+      "apartment_name": "岩本ﾏﾝｼｮﾝ402",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240404",
+      "employee_name": "TRINH VAN TU",
+      "apartment_code": "APT0094",
+      "apartment_name": "岩本ﾏﾝｼｮﾝ402",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211020",
+      "employee_name": "LE SY THINH",
+      "apartment_code": "APT0350",
+      "apartment_name": "ﾋﾞｰﾌﾘｰ8 203号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240406",
+      "employee_name": "NGUYEN VAN LONG",
+      "apartment_code": "APT0119",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ101号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240410",
+      "employee_name": "NGUYEN QUANG HOA",
+      "apartment_code": "APT0399",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ野田5-405",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240412",
+      "employee_name": "TRAN VAN CHINH",
+      "apartment_code": "APT0366",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ八代山2号棟307号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240411",
+      "employee_name": "NGUYEN TRONG HIEU",
+      "apartment_code": "APT0179",
+      "apartment_name": "県営横根住宅403号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240413",
+      "employee_name": "NGUYEN HONG SON",
+      "apartment_code": "APT0475",
+      "apartment_name": "ﾚｵﾊﾟﾚｽ田戸113",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240502",
+      "employee_name": "PHAN HUU THI",
+      "apartment_code": "APT0450",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240503",
+      "employee_name": "TRAN TRONG KHOE",
+      "apartment_code": "APT0281",
+      "apartment_name": "ｺｰﾎﾟﾏｲｷｬｯｽﾙS 206号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240504",
+      "employee_name": "NGUYEN HOANG TRUNG",
+      "apartment_code": "APT0427",
+      "apartment_name": "ﾌﾟﾚｼﾞｵC202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240506",
+      "employee_name": "PHAN TRUNG NAM",
+      "apartment_code": "APT0331",
+      "apartment_name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西A202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240505",
+      "employee_name": "VU VAN SON",
+      "apartment_code": "APT0288",
+      "apartment_name": "ｺﾞｰﾙﾄﾞﾊｲﾂC101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230906",
+      "employee_name": "NGUYEN DUC CHUNG",
+      "apartment_code": "APT0242",
+      "apartment_name": "ｳﾞｨﾗｺｰﾄ田園403",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240705",
+      "employee_name": "NGUYEN MANH CUONG",
+      "apartment_code": "APT0194",
+      "apartment_name": "県営長根住宅6棟401号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240602",
+      "employee_name": "NGUYEN VAN TU",
+      "apartment_code": "APT0211",
+      "apartment_name": "飯田第二ｺｰﾎﾟ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240605",
+      "employee_name": "TRAN THI LE",
+      "apartment_code": "APT0414",
+      "apartment_name": "ﾌｫｰﾌﾞﾙ神池102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240606",
+      "employee_name": "CHU VAN LOC",
+      "apartment_code": "APT0266",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ208",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210908",
+      "employee_name": "NGUYEN MINH TIEN",
+      "apartment_code": "APT0235",
+      "apartment_name": "ｱﾙｿｰﾚD202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240701",
+      "employee_name": "NGUYEN VAN THACH",
+      "apartment_code": "APT0344",
+      "apartment_name": "ﾊｲﾂ長嶋201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240408",
+      "employee_name": "HO VAN THICH",
+      "apartment_code": "APT0450",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240706",
+      "employee_name": "NGUYEN VAN DAT",
+      "apartment_code": "APT0147",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅦ206",
+      "move_in_date": "2024-07-03",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240708",
+      "employee_name": "PHAM HUYNH DUC",
+      "apartment_code": "APT0230",
+      "apartment_name": "ｱﾙｿｰﾚC201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240710",
+      "employee_name": "NGUYEN VAN HAN",
+      "apartment_code": "APT0211",
+      "apartment_name": "飯田第二ｺｰﾎﾟ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210201",
+      "employee_name": "LE VAN THUONG",
+      "apartment_code": "APT0327",
+      "apartment_name": "ﾄﾞﾐｰﾙ佐古木 105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240711",
+      "employee_name": "NGUYEN VAN LINH",
+      "apartment_code": "APT0427",
+      "apartment_name": "ﾌﾟﾚｼﾞｵC202",
+      "move_in_date": "2024-07-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240712",
+      "employee_name": "VUONG CONG MINH",
+      "apartment_code": "APT0350",
+      "apartment_name": "ﾋﾞｰﾌﾘｰ8 203号",
+      "move_in_date": "2024-07-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240803",
+      "employee_name": "NGUYEN VAN TUYEN",
+      "apartment_code": "APT0015",
+      "apartment_name": "BeehiveresidenceⅣ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240804",
+      "employee_name": "HOANG QUOC VIET",
+      "apartment_code": "APT0428",
+      "apartment_name": "ﾌﾟﾛﾑﾅｰﾄﾞⅡA102号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240805",
+      "employee_name": "CAO VAN SON",
+      "apartment_code": "APT0378",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ山北5号棟205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240807",
+      "employee_name": "NGUYEN NGOC NHUT",
+      "apartment_code": "APT0234",
+      "apartment_name": "ｱﾙｿｰﾚD201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240809",
+      "employee_name": "PHAM VINH QUANG",
+      "apartment_code": "APT0490",
+      "apartment_name": "ﾛｼﾞｭﾏﾝ千希A202号",
+      "move_in_date": "2024-08-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241002",
+      "employee_name": "NAKIRI FERREIRA VALDINEI",
+      "apartment_code": "APT0476",
+      "apartment_name": "ﾚｵﾊﾟﾚｽｱﾝｿﾚｲｴ恵207号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240811",
+      "employee_name": "NGUYEN BA HIEU",
+      "apartment_code": "APT0093",
+      "apartment_name": "岩倉団地31棟407号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240812",
+      "employee_name": "TRAN NAM ANH",
+      "apartment_code": "APT0235",
+      "apartment_name": "ｱﾙｿｰﾚD202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240815",
+      "employee_name": "DANG VAN MUOI",
+      "apartment_code": "APT0453",
+      "apartment_name": "ﾗ･ﾎﾞﾝｼｬｽ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231011",
+      "employee_name": "PHAM VAN DONG",
+      "apartment_code": "APT0344",
+      "apartment_name": "ﾊｲﾂ長嶋201",
+      "move_in_date": "2024-05-29",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240818",
+      "employee_name": "VO DIEN VU MINH",
+      "apartment_code": "APT0437",
+      "apartment_name": "ﾏﾚ･ｻﾗﾝⅡ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211012",
+      "employee_name": "LE QUI HAI",
+      "apartment_code": "APT0279",
+      "apartment_name": "ｺｰﾎﾟｲｰｽﾄC205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240902",
+      "employee_name": "PHAM HUU CUONG",
+      "apartment_code": "APT0453",
+      "apartment_name": "ﾗ･ﾎﾞﾝｼｬｽ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240904",
+      "employee_name": "TRAN THE AN",
+      "apartment_code": "APT0453",
+      "apartment_name": "ﾗ･ﾎﾞﾝｼｬｽ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240905",
+      "employee_name": "TRAN VIET HOANG",
+      "apartment_code": "APT0261",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ109",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240906",
+      "employee_name": "VU HAI LONG",
+      "apartment_code": "APT0136",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240907",
+      "employee_name": "DINH VAN TRUNG",
+      "apartment_code": "APT0136",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240911",
+      "employee_name": "NGUYEN PHUONG NAM",
+      "apartment_code": "APT0122",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240912",
+      "employee_name": "VU DINH HIEU",
+      "apartment_code": "APT0141",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211109",
+      "employee_name": "HOANG THE VINH",
+      "apartment_code": "APT0231",
+      "apartment_name": "ｱﾙｿｰﾚD101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241001",
+      "employee_name": "LE VAN MINH",
+      "apartment_code": "APT0008",
+      "apartment_name": "405号室",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241203",
+      "employee_name": "DAU VAN TRONG",
+      "apartment_code": "APT0033",
+      "apartment_name": "NOVA PLUS 301",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241003",
+      "employee_name": "DAO TIEN MANH",
+      "apartment_code": "APT0035",
+      "apartment_name": "SuperiorⅠ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241005",
+      "employee_name": "NGUYEN DINH BAC",
+      "apartment_code": "APT0120",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241007",
+      "employee_name": "NGUYEN VAN TUNG",
+      "apartment_code": "APT0416",
+      "apartment_name": "ﾌﾚｸﾞﾗﾝｽ桂A棟201号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241009",
+      "employee_name": "LE MINH TUAN",
+      "apartment_code": "APT0370",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川2-402",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241010",
+      "employee_name": "TRAN THI LE QUYEN",
+      "apartment_code": "APT0105",
+      "apartment_name": "成広矢原ｺｰﾎⅥ105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211016",
+      "employee_name": "HOANG NGOC BINH",
+      "apartment_code": "APT0468",
+      "apartment_name": "ﾙ･ｼｴｰﾙ上甲子園203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231101",
+      "employee_name": "PHAM DINH TUNG",
+      "apartment_code": "APT0344",
+      "apartment_name": "ﾊｲﾂ長嶋201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241101",
+      "employee_name": "NGUYEN QUOC BAO",
+      "apartment_code": "APT0454",
+      "apartment_name": "ﾗｲﾌｺｱ119　301号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241102",
+      "employee_name": "TRAN HUY HOANG",
+      "apartment_code": "APT0049",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241103",
+      "employee_name": "NGUYEN DUYEN LAM",
+      "apartment_code": "APT0115",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅡ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241104",
+      "employee_name": "HOANG TUAN ANH",
+      "apartment_code": "APT0049",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241105",
+      "employee_name": "NGUYEN DUC MANH",
+      "apartment_code": "APT0115",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅡ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241106",
+      "employee_name": "HOANG TIEN LONG",
+      "apartment_code": "APT0109",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241202",
+      "employee_name": "NGUYEN THANH VAN",
+      "apartment_code": "APT0487",
+      "apartment_name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱB205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241210",
+      "employee_name": "NGUYEN QUANG TUNG",
+      "apartment_code": "APT0206",
+      "apartment_name": "豊明団地45-105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221206",
+      "employee_name": "DANG THE DONG",
+      "apartment_code": "APT0275",
+      "apartment_name": "ｺｰﾎﾟ下村203号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241206",
+      "employee_name": "BUI MINH PHAP",
+      "apartment_code": "APT0049",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210422",
+      "employee_name": "TRAN DINH VINH",
+      "apartment_code": "APT0342",
+      "apartment_name": "ﾊｲﾂこうしんB棟101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210305",
+      "employee_name": "NGUYEN HOA HOAN",
+      "apartment_code": "APT0328",
+      "apartment_name": "ﾄﾞﾐｰﾙ神明B-101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241217",
+      "employee_name": "PHAM BA DAI",
+      "apartment_code": "APT0455",
+      "apartment_name": "ﾗｲﾌｺｱ119　306号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241215",
+      "employee_name": "NGUYEN PHUONG CUONG",
+      "apartment_code": "APT0456",
+      "apartment_name": "ﾗｲﾌｺｱ119　307号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241216",
+      "employee_name": "NGUYEN VAN THUAN",
+      "apartment_code": "APT0074",
+      "apartment_name": "各務ﾊｲﾂ4E",
+      "move_in_date": "2025-01-01",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241211",
+      "employee_name": "DO BA HOANG",
+      "apartment_code": "APT0459",
+      "apartment_name": "ﾗﾌｨｰﾈ久能303号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241212",
+      "employee_name": "DINH VAN LONG",
+      "apartment_code": "APT0035",
+      "apartment_name": "SuperiorⅠ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241213",
+      "employee_name": "NGUYEN HAI LONG",
+      "apartment_code": "APT0014",
+      "apartment_name": "BeehiveresidenceⅢ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241214",
+      "employee_name": "PHAM VAN NGHIA",
+      "apartment_code": "APT0459",
+      "apartment_name": "ﾗﾌｨｰﾈ久能303号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241218",
+      "employee_name": "DAM KIEN LAP",
+      "apartment_code": "APT0120",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241219",
+      "employee_name": "NGUYEN CONG HAU",
+      "apartment_code": "APT0103",
+      "apartment_name": "成広矢原ｺｰⅢ207",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241220",
+      "employee_name": "NGUYEN DUC HUY",
+      "apartment_code": "APT0159",
+      "apartment_name": "成広ｺｰﾎﾟⅡ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250102",
+      "employee_name": "NGUYEN HOANG LAM",
+      "apartment_code": "APT0404",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ高取2号棟304号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250101",
+      "employee_name": "NGO DUY LONG",
+      "apartment_code": "APT0314",
+      "apartment_name": "ｽｶｲﾋﾞｰﾝｽﾞ柏原202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210118",
+      "employee_name": "PHAM CONG THANH",
+      "apartment_code": "APT0374",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ宇甘川　207号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250103",
+      "employee_name": "CAO KHAI DI",
+      "apartment_code": "APT0046",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250104",
+      "employee_name": "TRAN QUOC CHIEN",
+      "apartment_code": "APT0046",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250105",
+      "employee_name": "BUI TIEN DAT",
+      "apartment_code": "APT0046",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250112",
+      "employee_name": "NGUYEN NGOC HAI",
+      "apartment_code": "APT0146",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅦ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250113",
+      "employee_name": "PHAM KHANH DUY",
+      "apartment_code": "APT0146",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅦ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250107",
+      "employee_name": "MAI THANH TUONG DUY",
+      "apartment_code": "APT0455",
+      "apartment_name": "ﾗｲﾌｺｱ119　306号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250108",
+      "employee_name": "NGUYEN HUU NGHIA",
+      "apartment_code": "APT0455",
+      "apartment_name": "ﾗｲﾌｺｱ119　306号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250109",
+      "employee_name": "TRINH VAN NGOC ANH",
+      "apartment_code": "APT0455",
+      "apartment_name": "ﾗｲﾌｺｱ119　306号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250110",
+      "employee_name": "TRAN PHAT LOI",
+      "apartment_code": "APT0413",
+      "apartment_name": "ﾌｪﾘｽA103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250111",
+      "employee_name": "NGUYEN VO HUU THANG",
+      "apartment_code": "APT0016",
+      "apartment_name": "BeehiveresidenceⅦ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230210",
+      "employee_name": "TRAN NGOC DINH",
+      "apartment_code": "APT0396",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ田島2棟404号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250115",
+      "employee_name": "TRAN VAN HOA",
+      "apartment_code": "APT0443",
+      "apartment_name": "ﾒｿﾞﾝ辻山105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250116",
+      "employee_name": "DANG DINH DUC",
+      "apartment_code": "APT0314",
+      "apartment_name": "ｽｶｲﾋﾞｰﾝｽﾞ柏原202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250117",
+      "employee_name": "LAI VAN SON",
+      "apartment_code": "APT0100",
+      "apartment_name": "平島中四丁目賃家",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250118",
+      "employee_name": "DUONG TUAN VIET",
+      "apartment_code": "APT0138",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250119",
+      "employee_name": "LE VAN HIEU",
+      "apartment_code": "APT0138",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅥ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250207",
+      "employee_name": "HA GIA BAO",
+      "apartment_code": "APT0112",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250209",
+      "employee_name": "LE VIET DUY CUONG",
+      "apartment_code": "APT0123",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ106",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250210",
+      "employee_name": "LE MINH TRI",
+      "apartment_code": "APT0123",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ106",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250211",
+      "employee_name": "LE THANH SANG",
+      "apartment_code": "APT0043",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250212",
+      "employee_name": "NGUYEN DUC LOC",
+      "apartment_code": "APT0043",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250205",
+      "employee_name": "NGUYEN TIEN KHOA",
+      "apartment_code": "APT0225",
+      "apartment_name": "ｱﾐﾃｨKⅠ-B",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250206",
+      "employee_name": "TRAN VU",
+      "apartment_code": "APT0225",
+      "apartment_name": "ｱﾐﾃｨKⅠ-B",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250202",
+      "employee_name": "NONG VAN TINH",
+      "apartment_code": "APT0435",
+      "apartment_name": "ﾏｯｸｽﾋﾞｭｰﾃｨA-102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250204",
+      "employee_name": "TRINH LUONG QUANG",
+      "apartment_code": "APT0436",
+      "apartment_name": "ﾏｯｸｽﾋﾞｭｰﾃｨB-103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250213",
+      "employee_name": "BOLZAN DOS PASSOS DIEGO",
+      "apartment_code": "APT0038",
+      "apartment_name": "ビレッジハウス増田2-105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250214",
+      "employee_name": "NGUYEN DINH THANG",
+      "apartment_code": "APT0419",
+      "apartment_name": "ﾌﾚｸﾞﾗﾝｽｳｼ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250215",
+      "employee_name": "NGUYEN DUY THANH",
+      "apartment_code": "APT0305",
+      "apartment_name": "ｼｬﾝﾄﾞﾌﾙｰﾙ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250216",
+      "employee_name": "VU VAN BAO",
+      "apartment_code": "APT0409",
+      "apartment_name": "ﾌｨﾌﾃｨⅠ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250217",
+      "employee_name": "MAI XUAN CHAU BINH",
+      "apartment_code": "APT0435",
+      "apartment_name": "ﾏｯｸｽﾋﾞｭｰﾃｨA-102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250218",
+      "employee_name": "BUI VAN SON",
+      "apartment_code": "APT0410",
+      "apartment_name": "ﾌｨﾌﾃｨⅡ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250219",
+      "employee_name": "NGUYEN TIEN DUNG",
+      "apartment_code": "APT0305",
+      "apartment_name": "ｼｬﾝﾄﾞﾌﾙｰﾙ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211011",
+      "employee_name": "LUU THANH SON",
+      "apartment_code": "APT0269",
+      "apartment_name": "ｸﾞﾘｰﾝﾊｲﾂA棟201",
+      "move_in_date": "2021-10-06",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250222",
+      "employee_name": "NGUYEN DINH THUAN",
+      "apartment_code": "APT0419",
+      "apartment_name": "ﾌﾚｸﾞﾗﾝｽｳｼ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210416",
+      "employee_name": "NGUYEN XUAN DUY",
+      "apartment_code": "APT0229",
+      "apartment_name": "ｱﾙｺ･ﾊﾞﾚｰﾉ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250223",
+      "employee_name": "TRAN MINH TRUONG",
+      "apartment_code": "APT0225",
+      "apartment_name": "ｱﾐﾃｨKⅠ-B",
+      "move_in_date": "2025-02-14",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250224",
+      "employee_name": "NONG DUC HUNG",
+      "apartment_code": "APT0487",
+      "apartment_name": "ﾚﾌﾞﾗﾝｶﾐｰﾘｱB205",
+      "move_in_date": "2025-02-14",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250225",
+      "employee_name": "DAO NGOC DUY",
+      "apartment_code": "APT0046",
+      "apartment_name": "中須賀ｺｰﾎﾟⅡ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210301",
+      "employee_name": "BUI VAN DUY",
+      "apartment_code": "APT0189",
+      "apartment_name": "県営長根住宅12棟304号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210108",
+      "employee_name": "NGUYEN DINH TRONG",
+      "apartment_code": "APT0193",
+      "apartment_name": "県営長根住宅6棟301号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230910",
+      "employee_name": "TRAN THANH VAN",
+      "apartment_code": "APT0410",
+      "apartment_name": "ﾌｨﾌﾃｨⅡ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210404",
+      "employee_name": "NGUYEN KHAC TRUNG",
+      "apartment_code": "APT0449",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250304",
+      "employee_name": "TRAN TUAN CUONG",
+      "apartment_code": "APT0207",
+      "apartment_name": "豊明団地48-305",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250301",
+      "employee_name": "HOANG VAN CHUONG",
+      "apartment_code": "APT0049",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250302",
+      "employee_name": "NGO VAN TOAN",
+      "apartment_code": "APT0109",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅠ102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP201202",
+      "employee_name": "BUI VIET THANH",
+      "apartment_code": "APT0175",
+      "apartment_name": "県営半田住宅3棟301号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250310",
+      "employee_name": "LO VIET DUC",
+      "apartment_code": "APT0454",
+      "apartment_name": "ﾗｲﾌｺｱ119　301号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250307",
+      "employee_name": "LE VAN HA",
+      "apartment_code": "APT0413",
+      "apartment_name": "ﾌｪﾘｽA103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250308",
+      "employee_name": "DUONG CHI THONG",
+      "apartment_code": "APT0433",
+      "apartment_name": "ﾎｰﾌﾟｼﾃｨHIRO202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250309",
+      "employee_name": "LY VAN NHAN",
+      "apartment_code": "APT0433",
+      "apartment_name": "ﾎｰﾌﾟｼﾃｨHIRO202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250402",
+      "employee_name": "PHAM VAN BANG",
+      "apartment_code": "APT0037",
+      "apartment_name": "こもがみﾊｲﾂ408",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250404",
+      "employee_name": "NGUYEN KHAC TAN",
+      "apartment_code": "APT0019",
+      "apartment_name": "CASA弥冨A203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250401",
+      "employee_name": "VU VAN BINH",
+      "apartment_code": "APT0030",
+      "apartment_name": "Florence1997 203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250409",
+      "employee_name": "NGUYEN NGOC MANH",
+      "apartment_code": "APT0449",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250406",
+      "employee_name": "PHAM TAN DANH",
+      "apartment_code": "APT0035",
+      "apartment_name": "SuperiorⅠ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250407",
+      "employee_name": "DINH HOANG THANG",
+      "apartment_code": "APT0331",
+      "apartment_name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西A202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220125",
+      "employee_name": "BUI DUC THANG",
+      "apartment_code": "APT0450",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250410",
+      "employee_name": "LE MINH TIEN",
+      "apartment_code": "APT0131",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210911",
+      "employee_name": "LE VIET HUNG",
+      "apartment_code": "APT0221",
+      "apartment_name": "ｱﾄﾚA棟101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250411",
+      "employee_name": "NGUYEN THI HONG",
+      "apartment_code": "APT0323",
+      "apartment_name": "ﾀﾞｲﾜﾋﾞﾙ202",
+      "move_in_date": "2025-04-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250501",
+      "employee_name": "HUYNH TAN PHAT",
+      "apartment_code": "APT0118",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅡ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250505",
+      "employee_name": "NGUYEN BA TIEN",
+      "apartment_code": "APT0471",
+      "apartment_name": "ﾙﾐｴｰﾙ上池203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250504",
+      "employee_name": "LE TRUNG DUNG",
+      "apartment_code": "APT0363",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ亀崎2号棟301",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250502",
+      "employee_name": "NGUYEN QUANG HUY",
+      "apartment_code": "APT0470",
+      "apartment_name": "ﾙﾐｴｰﾙ KATO201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231112",
+      "employee_name": "NGUYEN VAN TRINH",
+      "apartment_code": "APT0242",
+      "apartment_name": "ｳﾞｨﾗｺｰﾄ田園403",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250503",
+      "employee_name": "HOANG VAN QUYEN",
+      "apartment_code": "APT0469",
+      "apartment_name": "ﾙﾐｴｰﾙ KATO105",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220802",
+      "employee_name": "NGUYEN DUY THANG",
+      "apartment_code": "APT0450",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220209",
+      "employee_name": "NGUYEN VAN LAP",
+      "apartment_code": "APT0348",
+      "apartment_name": "ﾊﾟｰｸﾀｳﾝ平島D201",
+      "move_in_date": "2022-03-12",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240810",
+      "employee_name": "DO DUC TRUNG",
+      "apartment_code": "APT0450",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221009",
+      "employee_name": "TRAN DINH MINH",
+      "apartment_code": "APT0233",
+      "apartment_name": "ｱﾙｿｰﾚD103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250601",
+      "employee_name": "NINH NGOC HIEU",
+      "apartment_code": "APT0075",
+      "apartment_name": "各務ﾊｲﾂ4H",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250602",
+      "employee_name": "NGUYEN VAN TRUNG",
+      "apartment_code": "APT0075",
+      "apartment_name": "各務ﾊｲﾂ4H",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221001",
+      "employee_name": "NGUYEN HOANG PHIEN",
+      "apartment_code": "APT0271",
+      "apartment_name": "ｸﾞﾚｲｽ旭A202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250603",
+      "employee_name": "LE DINH DONG",
+      "apartment_code": "APT0023",
+      "apartment_name": "CASA弥富A203",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250604",
+      "employee_name": "阿波根　カロリーナ　サチコ",
+      "apartment_code": "APT0218",
+      "apartment_name": "ｱｰﾙﾗｲﾌ302",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250605",
+      "employee_name": "BUI QUANG DUNG",
+      "apartment_code": "APT0254",
+      "apartment_name": "ｸﾚｰﾙ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250607",
+      "employee_name": "BUI NGOC TIN",
+      "apartment_code": "APT0335",
+      "apartment_name": "ﾊｰﾓﾆｰ201",
+      "move_in_date": "2025-06-13",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210812",
+      "employee_name": "NGO NHAT QUYEN",
+      "apartment_code": "APT0217",
+      "apartment_name": "ｱｰﾄﾌｧｲﾝﾄﾞ天王寺401号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250608",
+      "employee_name": "DO TRUNG KIEN",
+      "apartment_code": "APT0020",
+      "apartment_name": "CASA弥冨B203",
+      "move_in_date": "2025-06-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240709",
+      "employee_name": "NGUYEN TRONG DAI",
+      "apartment_code": "APT0230",
+      "apartment_name": "ｱﾙｿｰﾚC201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP231003",
+      "employee_name": "NGUYEN QUOC CUONG",
+      "apartment_code": "APT0304",
+      "apartment_name": "ｼｬﾙﾑ三田303",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250701",
+      "employee_name": "TRAN THI HANH",
+      "apartment_code": "APT0323",
+      "apartment_name": "ﾀﾞｲﾜﾋﾞﾙ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250702",
+      "employee_name": "VU VAN HIEP",
+      "apartment_code": "APT0368",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ吉永2棟401",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210610",
+      "employee_name": "CAO QUOC DUNG",
+      "apartment_code": "APT0348",
+      "apartment_name": "ﾊﾟｰｸﾀｳﾝ平島D201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250703",
+      "employee_name": "DA COSTA MARCIO JOSE",
+      "apartment_code": "APT0176",
+      "apartment_name": "県営唐臼住宅3棟402号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220501",
+      "employee_name": "PHAN VAN CUONG",
+      "apartment_code": "APT0083",
+      "apartment_name": "妙慶ﾊｲﾂ202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250704",
+      "employee_name": "DO DINH THANH",
+      "apartment_code": "APT0205",
+      "apartment_name": "豊明団地21-305号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250705",
+      "employee_name": "TRAN THU HUONG",
+      "apartment_code": "APT0480",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK204",
+      "move_in_date": "2025-08-17",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250706",
+      "employee_name": "HO VIET PHANG",
+      "apartment_code": "APT0314",
+      "apartment_name": "ｽｶｲﾋﾞｰﾝｽﾞ柏原202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250708",
+      "employee_name": "HUYNH HAI DANG",
+      "apartment_code": "APT0488",
+      "apartment_name": "ﾛｼﾞｭﾏﾝ久能A棟203号",
+      "move_in_date": "2025-07-16",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP211217",
+      "employee_name": "NGUYEN PHU CUONG",
+      "apartment_code": "APT0303",
+      "apartment_name": "ｼｬﾙﾑ三田202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240405",
+      "employee_name": "DONG LE XUAN HIEP",
+      "apartment_code": "APT0458",
+      "apartment_name": "ﾗﾊﾞﾝｼﾞｰﾙ大国3 603号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240909",
+      "employee_name": "LE VAN LUONG",
+      "apartment_code": "APT0304",
+      "apartment_name": "ｼｬﾙﾑ三田303",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250709",
+      "employee_name": "NGUYEN CHI THONG",
+      "apartment_code": "APT0331",
+      "apartment_name": "ﾆｭｰｴﾙﾃﾞｨﾑ小西A202",
+      "move_in_date": "2025-07-23",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250801",
+      "employee_name": "TRAN HUU LOC",
+      "apartment_code": "APT0096",
+      "apartment_name": "岸田ﾏﾝｼｮﾝ402号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230701",
+      "employee_name": "HOANG ANH DUNG",
+      "apartment_code": "APT0271",
+      "apartment_name": "ｸﾞﾚｲｽ旭A202号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220211",
+      "employee_name": "NGUYEN VAN CUONG",
+      "apartment_code": "APT0434",
+      "apartment_name": "ﾎﾜｲﾄｳﾞｨﾗ503",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250802",
+      "employee_name": "HA TRONG HUNG",
+      "apartment_code": "APT0219",
+      "apartment_name": "ｱｳﾛｰﾗⅡ101号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250803",
+      "employee_name": "HUA TRUONG TIEN",
+      "apartment_code": "APT0325",
+      "apartment_name": "ﾃﾞｲﾌﾞﾚｲｸ406",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250804",
+      "employee_name": "NGUYEN THANH PHONG",
+      "apartment_code": "APT0436",
+      "apartment_name": "ﾏｯｸｽﾋﾞｭｰﾃｨB-103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210501",
+      "employee_name": "TRAN NGOC HA",
+      "apartment_code": "APT0163",
+      "apartment_name": "成広ｺｰﾎﾟⅡ207",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210110",
+      "employee_name": "PHAM NGOC LAM",
+      "apartment_code": "APT0223",
+      "apartment_name": "ｱﾄﾚB棟101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP230402",
+      "employee_name": "LE VIET TRUNG",
+      "apartment_code": "APT0449",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250805",
+      "employee_name": "DINH VAN THANG",
+      "apartment_code": "APT0451",
+      "apartment_name": "ﾒｿﾞﾝﾊﾟｰｸｱﾍﾞﾆｭｰ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250806",
+      "employee_name": "LE VAN HOANG",
+      "apartment_code": "APT0418",
+      "apartment_name": "ﾌﾚｸﾞﾗﾝｽｳｼ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250807",
+      "employee_name": "DANG HUYNH NAM",
+      "apartment_code": "APT0442",
+      "apartment_name": "ﾒｿﾞﾝ辻山102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250808",
+      "employee_name": "NGUYEN THAI NANG",
+      "apartment_code": "APT0359",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ2-309",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP240801",
+      "employee_name": "NGUYEN THANH Y",
+      "apartment_code": "APT0346",
+      "apartment_name": "ﾊﾟｰｸｻｲﾄﾞｽｽﾞｷ101",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP221010",
+      "employee_name": "HUYNH TRUNG TUYEN",
+      "apartment_code": "APT0291",
+      "apartment_name": "ｻﾝｳﾞｨﾚｯｼﾞ91-205",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250809",
+      "employee_name": "NGUYEN VAN HAU",
+      "apartment_code": "APT0303",
+      "apartment_name": "ｼｬﾙﾑ三田202",
+      "move_in_date": "2025-08-26",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220121",
+      "employee_name": "NGO VAN HIEP",
+      "apartment_code": "APT0287",
+      "apartment_name": "ｺﾝﾂｪﾙﾊｳｽⅡD棟202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP220317",
+      "employee_name": "NGUYEN DINH THANH",
+      "apartment_code": "APT0162",
+      "apartment_name": "成広ｺｰﾎﾟⅡ206",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250901",
+      "employee_name": "NGUYEN XUAN HUONG",
+      "apartment_code": "APT0407",
+      "apartment_name": "ﾋﾟｭｱ里中406号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250902",
+      "employee_name": "HAN QUANG LINH",
+      "apartment_code": "APT0442",
+      "apartment_name": "ﾒｿﾞﾝ辻山102",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250903",
+      "employee_name": "PHAN QUOC DUC",
+      "apartment_code": "APT0394",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ田中第二8-406",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250905",
+      "employee_name": "PHAM QUOC THINH",
+      "apartment_code": "APT0460",
+      "apartment_name": "ﾗﾌｨｰﾈ久能402号",
+      "move_in_date": "2025-09-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP250906",
+      "employee_name": "LE HUU NGHI",
+      "apartment_code": "APT0460",
+      "apartment_name": "ﾗﾌｨｰﾈ久能402号",
+      "move_in_date": "2025-09-18",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251002",
+      "employee_name": "TONG XUAN HOA",
+      "apartment_code": "APT0308",
+      "apartment_name": "ｼﾃｨﾊｲﾑｸﾞﾘｰﾝﾗｲﾄ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP241201",
+      "employee_name": "NGUYEN HUU KHANG",
+      "apartment_code": "APT0392",
+      "apartment_name": "ﾋﾞﾚｯｼﾞﾊｳｽ牛山２棟208",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251004",
+      "employee_name": "DAO VAN TUONG",
+      "apartment_code": "APT0211",
+      "apartment_name": "飯田第二ｺｰﾎﾟ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251005",
+      "employee_name": "TRINH TRUNG HIEU",
+      "apartment_code": "APT0120",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251006",
+      "employee_name": "DUONG MINH TIEN",
+      "apartment_code": "APT0120",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅢ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251008",
+      "employee_name": "PHAM THI NGOC ANH",
+      "apartment_code": "APT0482",
+      "apartment_name": "ﾚｼﾞｪﾝﾄﾞK304",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251009",
+      "employee_name": "TRAN VAN TOAN",
+      "apartment_code": "APT0444",
+      "apartment_name": "ﾒｿﾞﾝ辻山201",
+      "move_in_date": "2025-10-20",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251010",
+      "employee_name": "TRAN QUY TRONG",
+      "apartment_code": "APT0459",
+      "apartment_name": "ﾗﾌｨｰﾈ久能303号",
+      "move_in_date": "2025-10-16",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP210405",
+      "employee_name": "DO XUAN HIEN",
+      "apartment_code": "APT0197",
+      "apartment_name": "県営高取住宅3棟205号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251011",
+      "employee_name": "PHAM HUNG",
+      "apartment_code": "APT0444",
+      "apartment_name": "ﾒｿﾞﾝ辻山201",
+      "move_in_date": "2025-10-22",
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP251103",
+      "employee_name": "MATSUMOTO MAURILIO",
+      "apartment_code": "APT0088",
+      "apartment_name": "富吉公団住宅321号",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "dispatch"
+    },
+    {
+      "employee_code": "EMP30805",
+      "employee_name": "三宅　実",
+      "apartment_code": "APT0336",
+      "apartment_name": "ﾊｰﾓﾆｰｺｰﾄ201",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP40507",
+      "employee_name": "WINARDI SARINAL PUTRA",
+      "apartment_code": "APT0145",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅦ106",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50202",
+      "employee_name": "安西　ルイズ　ユキオ",
+      "apartment_code": "APT0134",
+      "apartment_name": "成広矢原ｺｰﾎﾟⅤ203",
+      "move_in_date": "2023-02-15",
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50401",
+      "employee_name": "AMAL ROSUL",
+      "apartment_code": "APT0260",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50402",
+      "employee_name": "AREL ZUANFARKHAN IFRONI",
+      "apartment_code": "APT0260",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50403",
+      "employee_name": "BUYUNG NOVA TRI ANGGONO",
+      "apartment_code": "APT0262",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ110",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50404",
+      "employee_name": "GALIH BAGUS RAHARJO",
+      "apartment_code": "APT0262",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ110",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50405",
+      "employee_name": "RAHARDIYAN ARYA GILANG ARMANDA",
+      "apartment_code": "APT0260",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ103",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50406",
+      "employee_name": "YUSUF MARYANTO",
+      "apartment_code": "APT0262",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ110",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP50701",
+      "employee_name": "LE VAN HIEU",
+      "apartment_code": "APT0047",
+      "apartment_name": "中須賀ｺｰﾎﾟⅢ202",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP51002",
+      "employee_name": "LE VO HUU TOAN",
+      "apartment_code": "APT0261",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ109",
+      "move_in_date": null,
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP51201",
+      "employee_name": "RINZA　PRASETIYO",
+      "apartment_code": "APT0267",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ215",
+      "move_in_date": "2023-12-01",
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP51202",
+      "employee_name": "ALFIAN　GALIH　ABDULLAH",
+      "apartment_code": "APT0267",
+      "apartment_name": "ｸﾞﾗﾝﾃﾞｰｻﾞ215",
+      "move_in_date": "2023-12-01",
+      "is_current": true,
+      "contract_type": "contract"
+    },
+    {
+      "employee_code": "EMP60102",
+      "employee_name": "NGUYEN THI HUYNH NHU",
+      "apartment_code": "APT0159",
+      "apartment_name": "成広ｺｰﾎﾟⅡ201",
+      "move_in_date": "2023-12-25",
+      "is_current": true,
+      "contract_type": "contract"
+    }
+  ]
+}
