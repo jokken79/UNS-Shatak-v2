@@ -1,0 +1,16 @@
+employee_code,full_name_roman,full_name_kanji,full_name_furigana,nationality,date_of_birth,gender,phone,email,visa_type,visa_expiry,employment_start_date,contract_type,hourly_rate,factory_code,notes
+EMP001,NGUYEN VAN ANH,グエン・ヴァン・アイン,グエン・ヴァン・アイン,Vietnamese,1995-03-15,Male,080-1234-5678,nguyen.anh@email.com,技能実習2号,2025-06-30,2023-01-15,dispatch,1200,FAC001,Assembly line
+EMP002,TRAN THI HUONG,チャン・ティ・フォン,チャン・ティ・フォン,Vietnamese,1997-08-22,Female,080-2345-6789,tran.huong@email.com,技能実習2号,2025-08-15,2023-03-01,dispatch,1150,FAC001,Quality inspection
+EMP003,LE VAN MINH,レ・ヴァン・ミン,レ・ヴァン・ミン,Vietnamese,1994-12-10,Male,080-3456-7890,le.minh@email.com,特定技能1号,2026-12-31,2022-06-01,dispatch,1300,FAC002,Welding
+EMP004,PHAM THI LINH,ファム・ティ・リン,ファム・ティ・リン,Vietnamese,1996-05-28,Female,080-4567-8901,pham.linh@email.com,技能実習2号,2025-05-20,2023-02-15,dispatch,1180,FAC002,Parts inspection
+EMP005,HOANG VAN TUNG,ホアン・ヴァン・トゥン,ホアン・ヴァン・トゥン,Vietnamese,1993-09-03,Male,080-5678-9012,hoang.tung@email.com,特定技能1号,2027-03-15,2022-01-10,dispatch,1350,FAC003,Machine operation
+EMP006,VU THI MAI,ヴー・ティ・マイ,ヴー・ティ・マイ,Vietnamese,1998-01-17,Female,080-6789-0123,vu.mai@email.com,技能実習1号,2024-12-31,2023-06-01,dispatch,1100,FAC003,Assembly
+EMP007,DO VAN HAI,ドー・ヴァン・ハイ,ドー・ヴァン・ハイ,Vietnamese,1995-07-25,Male,080-7890-1234,do.hai@email.com,技能実習2号,2025-07-25,2023-04-01,dispatch,1220,FAC004,Manufacturing
+EMP008,BUI THI HONG,ブイ・ティ・ホン,ブイ・ティ・ホン,Vietnamese,1997-11-08,Female,080-8901-2345,bui.hong@email.com,技能実習2号,2025-11-30,2023-05-15,dispatch,1160,FAC004,Inspection
+EMP009,DANG VAN LONG,ダン・ヴァン・ロン,ダン・ヴァン・ロン,Vietnamese,1994-04-12,Male,080-9012-3456,dang.long@email.com,特定技能1号,2026-08-20,2022-08-01,dispatch,1280,FAC005,Assembly line
+EMP010,NGO THI THUY,ゴー・ティ・トゥイ,ゴー・ティ・トゥイ,Vietnamese,1996-10-30,Female,080-0123-4567,ngo.thuy@email.com,技能実習2号,2025-10-15,2023-07-01,dispatch,1140,FAC005,Sewing
+EMP011,RIZAL AHMAD,リザル・アフマド,リザル・アフマド,Indonesian,1995-02-18,Male,080-1111-2222,rizal.ahmad@email.com,技能実習2号,2025-04-30,2023-01-20,dispatch,1200,FAC006,Production
+EMP012,SITI NURHALIZA,シティ・ヌルハリザ,シティ・ヌルハリザ,Indonesian,1997-06-14,Female,080-2222-3333,siti.nur@email.com,技能実習2号,2025-06-14,2023-02-28,dispatch,1150,FAC006,Assembly
+EMP013,GARCIA JUAN CARLOS,ガルシア・フアン・カルロス,ガルシア・フアン・カルロス,Filipino,1994-08-20,Male,080-3333-4444,garcia.juan@email.com,特定技能1号,2026-10-01,2022-10-01,dispatch,1320,FAC007,Welding
+EMP014,SANTOS MARIA CLARA,サントス・マリア・クララ,サントス・マリア・クララ,Filipino,1996-12-05,Female,080-4444-5555,santos.maria@email.com,技能実習2号,2025-12-05,2023-08-01,dispatch,1170,FAC007,Quality control
+EMP015,CHEN WEI,チェン・ウェイ,チェン・ウェイ,Chinese,1993-03-28,Male,080-5555-6666,chen.wei@email.com,技術・人文知識・国際業務,2027-06-30,2021-07-01,contract,1500,FAC008,Engineering support
