@@ -4,11 +4,13 @@ from app.api.apartments import router as apartments_router
 from app.api.employees import router as employees_router
 from app.api.factories import router as factories_router
 from app.api.imports import router as imports_router
+from app.api.data import router as data_router
 
 __all__ = [
     "auth_router",
     "apartments_router",
     "employees_router",
     "factories_router",
-    "imports_router"
+    "imports_router",
+    "data_router"
 ]
