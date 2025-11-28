@@ -1,0 +1,121 @@
+version: '3.8'
+
+services:
+  # PostgreSQL Database
+  db:
+    image: postgres:15-alpine
+    container_name: uns-shatak-db
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-shatak_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-shatak_secret_2024}
+      POSTGRES_DB: ${POSTGRES_DB:-uns_shatak}
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./backend/scripts/01_init_database.sql:/docker-entrypoint-initdb.d/01_init_database.sql:ro
+    ports:
+      - "${DB_PORT:-5433}:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-shatak_admin} -d ${POSTGRES_DB:-uns_shatak}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - shatak-network
+    restart: unless-stopped
+
+  # Redis Cache
+  redis:
+    image: redis:7-alpine
+    container_name: uns-shatak-redis
+    command: redis-server --maxmemory 128mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    ports:
+      - "${REDIS_PORT:-6380}:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - shatak-network
+    restart: unless-stopped
+
+  # FastAPI Backend
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: uns-shatak-backend
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-shatak_admin}:${POSTGRES_PASSWORD:-shatak_secret_2024}@db:5432/${POSTGRES_DB:-uns_shatak}
+      - REDIS_URL=redis://redis:6379/0
+      - SECRET_KEY=${SECRET_KEY:-uns-shatak-secret-key-change-in-production-2024}
+      - CORS_ORIGINS=${CORS_ORIGINS:-http://localhost:3100,http://localhost:3101}
+      - DEBUG=${DEBUG:-true}
+    volumes:
+      - ./backend:/app
+      - ./config:/app/config:ro
+    ports:
+      - "${BACKEND_PORT:-8100}:8000"
+    depends_on:
+      db:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 40s
+    networks:
+      - shatak-network
+    restart: unless-stopped
+
+  # Next.js Frontend
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: uns-shatak-frontend
+    environment:
+      - NEXT_PUBLIC_API_URL=http://localhost:${BACKEND_PORT:-8100}
+      - NEXT_PUBLIC_APP_NAME=UNS-Shatak
+    volumes:
+      - ./frontend:/app
+      - /app/node_modules
+      - /app/.next
+    ports:
+      - "${FRONTEND_PORT:-3100}:3000"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - shatak-network
+    restart: unless-stopped
+
+  # Adminer - Database Management
+  adminer:
+    image: adminer:latest
+    container_name: uns-shatak-adminer
+    ports:
+      - "${ADMINER_PORT:-8180}:8080"
+    environment:
+      - ADMINER_DEFAULT_SERVER=db
+    depends_on:
+      - db
+    networks:
+      - shatak-network
+    restart: unless-stopped
+
+networks:
+  shatak-network:
+    driver: bridge
+    name: shatak-network
+
+volumes:
+  postgres_data:
+    name: uns-shatak-postgres-data
+  redis_data:
+    name: uns-shatak-redis-data
