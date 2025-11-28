@@ -1,0 +1,1 @@
+"""UNS-Shatak Backend Application"""
