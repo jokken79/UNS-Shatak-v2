@@ -530,7 +530,7 @@ export default function DataManagementPage() {
       {/* Import Modal */}
       {showImportModal && (
         <div className="fixed inset-0 bg-black/50 flex items-center justify-center z-50 p-4">
-          <Card className="w-full max-w-md">
+          <Card className="w-full max-w-lg">
             <CardHeader>
               <CardTitle className="flex items-center justify-between">
                 Importar a {selectedTable}
@@ -541,18 +541,48 @@ export default function DataManagementPage() {
             </CardHeader>
             <CardContent className="space-y-4">
               {importResult ? (
-                <div className="space-y-2">
+                <div className="space-y-3">
                   <div className="text-green-600 flex items-center gap-2">
                     <CheckCircle className="h-5 w-5" />
                     Importación completada
                   </div>
-                  <div className="text-sm">
-                    <div>Total: {importResult.total}</div>
-                    <div className="text-green-600">Exitosos: {importResult.success}</div>
-                    <div className="text-red-600">Fallidos: {importResult.failed}</div>
+                  <div className="text-sm grid grid-cols-3 gap-2">
+                    <div className="p-2 bg-muted rounded text-center">
+                      <div className="text-lg font-bold">{importResult.total}</div>
+                      <div className="text-xs text-muted-foreground">Total</div>
+                    </div>
+                    <div className="p-2 bg-green-50 rounded text-center">
+                      <div className="text-lg font-bold text-green-600">{importResult.success}</div>
+                      <div className="text-xs text-green-600">Exitosos</div>
+                    </div>
+                    <div className="p-2 bg-red-50 rounded text-center">
+                      <div className="text-lg font-bold text-red-600">{importResult.failed}</div>
+                      <div className="text-xs text-red-600">Fallidos</div>
+                    </div>
                   </div>
+                  {importResult.columns_used && (
+                    <div className="p-2 bg-blue-50 rounded">
+                      <div className="text-xs font-medium text-blue-700 mb-1">Columnas importadas:</div>
+                      <div className="text-xs text-blue-600 flex flex-wrap gap-1">
+                        {importResult.columns_used.map((col: string) => (
+                          <span key={col} className="bg-blue-100 px-1 rounded">{col}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                  {importResult.columns_skipped?.length > 0 && (
+                    <div className="p-2 bg-yellow-50 rounded">
+                      <div className="text-xs font-medium text-yellow-700 mb-1">Columnas ignoradas (no existen en tabla):</div>
+                      <div className="text-xs text-yellow-600 flex flex-wrap gap-1">
+                        {importResult.columns_skipped.map((col: string) => (
+                          <span key={col} className="bg-yellow-100 px-1 rounded">{col}</span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
                   {importResult.errors?.length > 0 && (
-                    <div className="mt-2 p-2 bg-red-50 rounded text-xs text-red-600 max-h-32 overflow-y-auto">
+                    <div className="p-2 bg-red-50 rounded text-xs text-red-600 max-h-32 overflow-y-auto">
+                      <div className="font-medium mb-1">Errores:</div>
                       {importResult.errors.map((e: any, i: number) => (
                         <div key={i}>Fila {e.row}: {e.error}</div>
                       ))}
@@ -564,14 +594,18 @@ export default function DataManagementPage() {
                 </div>
               ) : (
                 <>
-                  <div className="border-2 border-dashed rounded-lg p-8 text-center">
+                  <div className="border-2 border-dashed rounded-lg p-6 text-center">
                     <Upload className="h-8 w-8 mx-auto text-muted-foreground mb-2" />
-                    <p className="text-sm text-muted-foreground mb-4">
-                      Arrastra un archivo JSON o CSV aquí
+                    <p className="text-sm font-medium mb-1">
+                      Importar desde archivo
+                    </p>
+                    <p className="text-xs text-muted-foreground mb-4">
+                      JSON, CSV o Excel (.xlsx, .xls, .xlsm)<br/>
+                      Solo se importan columnas que existen en la tabla
                     </p>
                     <input
                       type="file"
-                      accept=".json,.csv"
+                      accept=".json,.csv,.xlsx,.xls,.xlsm"
                       onChange={(e) => {
                         const file = e.target.files?.[0]
                         if (file) handleImport(file, "append")
@@ -581,14 +615,14 @@ export default function DataManagementPage() {
                     />
                     <div className="flex gap-2 justify-center">
                       <Button variant="outline" onClick={() => document.getElementById("import-file")?.click()}>
-                        Agregar (append)
+                        <Plus className="h-4 w-4 mr-1" /> Agregar
                       </Button>
                       <Button
                         variant="destructive"
                         onClick={() => {
                           const input = document.createElement("input")
                           input.type = "file"
-                          input.accept = ".json,.csv"
+                          input.accept = ".json,.csv,.xlsx,.xls,.xlsm"
                           input.onchange = (e) => {
                             const file = (e.target as HTMLInputElement).files?.[0]
                             if (file && confirm("Esto ELIMINARÁ todos los registros existentes antes de importar. ¿Continuar?")) {

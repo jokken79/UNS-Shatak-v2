@@ -330,10 +330,11 @@ async def import_to_table(
     table_name: str,
     file: UploadFile = File(...),
     mode: str = Query("append", regex="^(append|replace)$"),
+    sheet_name: Optional[str] = Query(None, description="Nombre de la hoja Excel"),
     db: Session = Depends(get_db),
     current_user: User = Depends(get_current_user)
 ):
-    """Importar datos a una tabla desde JSON o CSV"""
+    """Importar datos a una tabla desde JSON, CSV o Excel (solo columnas que existen en la tabla)"""
     if table_name not in TABLE_MODELS:
         raise HTTPException(status_code=404, detail=f"Tabla '{table_name}' no encontrada")
 
@@ -342,11 +343,19 @@ async def import_to_table(
 
     model = TABLE_MODELS[table_name]
 
+    # Obtener columnas válidas de la tabla
+    valid_columns = {col.name for col in model.__table__.columns}
+    # Excluir campos auto-generados
+    excluded_columns = {'id', 'created_at', 'updated_at'}
+    valid_columns = valid_columns - excluded_columns
+
     # Leer archivo
     content = await file.read()
     filename = file.filename.lower()
 
     try:
+        data = []
+
         if filename.endswith('.json'):
             data = json.loads(content.decode('utf-8'))
             # Si es un objeto con key 'records' o similar, extraer la lista
@@ -355,11 +364,38 @@ async def import_to_table(
                     if key in data:
                         data = data[key]
                         break
+
         elif filename.endswith('.csv'):
             reader = csv.DictReader(io.StringIO(content.decode('utf-8')))
             data = list(reader)
+
+        elif filename.endswith(('.xlsx', '.xls', '.xlsm')):
+            # Importar Excel con pandas
+            import pandas as pd
+
+            # Guardar temporalmente el archivo
+            temp_path = f"/tmp/{file.filename}"
+            with open(temp_path, 'wb') as f:
+                f.write(content)
+
+            try:
+                # Leer Excel
+                if sheet_name:
+                    df = pd.read_excel(temp_path, sheet_name=sheet_name)
+                else:
+                    # Si no se especifica hoja, usar la primera
+                    xl = pd.ExcelFile(temp_path)
+                    df = pd.read_excel(temp_path, sheet_name=xl.sheet_names[0])
+
+                # Convertir a lista de diccionarios
+                df = df.where(pd.notnull(df), None)
+                data = df.to_dict('records')
+            finally:
+                import os
+                if os.path.exists(temp_path):
+                    os.remove(temp_path)
         else:
-            raise HTTPException(status_code=400, detail="Formato no soportado. Usa JSON o CSV")
+            raise HTTPException(status_code=400, detail="Formato no soportado. Usa JSON, CSV o Excel (.xlsx, .xls, .xlsm)")
 
         if not isinstance(data, list):
             raise HTTPException(status_code=400, detail="Los datos deben ser una lista de registros")
@@ -371,24 +407,43 @@ async def import_to_table(
         # Importar registros
         success = 0
         errors = []
+        skipped_columns = set()
 
         for i, row in enumerate(data):
             try:
-                # Remover campos que no deben ser establecidos
-                row.pop('id', None)
-                row.pop('created_at', None)
-                row.pop('updated_at', None)
-
-                # Convertir strings vacíos a None
+                # Filtrar solo columnas válidas
+                filtered_row = {}
                 for key, value in row.items():
-                    if value == '' or value == 'null' or value == 'None':
-                        row[key] = None
+                    # Normalizar nombre de columna (quitar espacios, etc)
+                    clean_key = str(key).strip().lower().replace(' ', '_').replace('-', '_')
 
-                record = model(**row)
-                db.add(record)
-                success += 1
+                    # Buscar coincidencia exacta o similar
+                    matched_col = None
+                    if clean_key in valid_columns:
+                        matched_col = clean_key
+                    else:
+                        # Buscar en columnas válidas
+                        for valid_col in valid_columns:
+                            if valid_col.lower() == clean_key:
+                                matched_col = valid_col
+                                break
+
+                    if matched_col:
+                        # Convertir valores
+                        if value == '' or value == 'null' or value == 'None' or (isinstance(value, float) and pd.isna(value) if 'pd' in dir() else False):
+                            filtered_row[matched_col] = None
+                        else:
+                            filtered_row[matched_col] = value
+                    else:
+                        skipped_columns.add(str(key))
+
+                if filtered_row:  # Solo crear si hay datos válidos
+                    record = model(**filtered_row)
+                    db.add(record)
+                    success += 1
+
             except Exception as e:
-                errors.append({"row": i + 1, "error": str(e)})
+                errors.append({"row": i + 1, "error": str(e)[:200]})
 
         db.commit()
 
@@ -399,7 +454,7 @@ async def import_to_table(
             total_rows=len(data),
             successful_rows=success,
             failed_rows=len(errors),
-            errors=errors[:50],  # Limitar errores guardados
+            errors=errors[:50],
             imported_by=current_user.id
         )
         db.add(log)
@@ -412,7 +467,9 @@ async def import_to_table(
             "total": len(data),
             "success": success,
             "failed": len(errors),
-            "errors": errors[:10]  # Mostrar solo primeros 10 errores
+            "columns_used": list(valid_columns),
+            "columns_skipped": list(skipped_columns)[:20],
+            "errors": errors[:10]
         }
 
     except json.JSONDecodeError:
