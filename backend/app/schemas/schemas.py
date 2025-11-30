@@ -345,6 +345,8 @@ class AssignmentBase(BaseModel):
     monthly_charge: Optional[Decimal] = None
     custom_monthly_rate: Optional[Decimal] = None  # Precio personalizado para este empleado
     deposit_paid: Optional[Decimal] = None
+    is_recent: Optional[bool] = False
+    assigned_color: Optional[str] = "#3B82F6"
     notes: Optional[str] = None
 
 
@@ -356,8 +358,10 @@ class AssignmentUpdate(BaseModel):
     move_out_date: Optional[date] = None
     monthly_charge: Optional[Decimal] = None
     custom_monthly_rate: Optional[Decimal] = None
-    notes: Optional[str] = None
     is_current: Optional[bool] = None
+    is_recent: Optional[bool] = None
+    assigned_color: Optional[str] = None
+    notes: Optional[str] = None
 
 
 class AssignmentResponse(AssignmentBase):
@@ -367,7 +371,7 @@ class AssignmentResponse(AssignmentBase):
     updated_at: datetime
     employee: Optional[EmployeeSimple] = None
     apartment: Optional[ApartmentResponse] = None
-    
+
     class Config:
         from_attributes = True
 

@@ -202,7 +202,7 @@ class Employee(Base):
 class ApartmentAssignment(Base):
     """Apartment assignment history (入居履歴)"""
     __tablename__ = "apartment_assignments"
-    
+
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     apartment_id = Column(UUID(as_uuid=True), ForeignKey("apartments.id", ondelete="CASCADE"), nullable=False)
     employee_id = Column(UUID(as_uuid=True), ForeignKey("employees.id", ondelete="CASCADE"), nullable=False)
@@ -212,6 +212,8 @@ class ApartmentAssignment(Base):
     custom_monthly_rate = Column(Numeric(10, 2))  # Precio personalizado para este empleado (opcional)
     deposit_paid = Column(Numeric(10, 2))
     is_current = Column(Boolean, default=True)
+    is_recent = Column(Boolean, default=False)  # Marcado si entró en los últimos 30 días
+    assigned_color = Column(String(7), default="#3B82F6")  # Color asignado para diferenciación visual
     notes = Column(Text)
     created_at = Column(DateTime(timezone=True), default=datetime.utcnow)
     updated_at = Column(DateTime(timezone=True), default=datetime.utcnow, onupdate=datetime.utcnow)
