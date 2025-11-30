@@ -50,6 +50,17 @@ class PricingType(str, enum.Enum):
     FIXED = "fixed"    # Precio fijo por persona
 
 
+class VisitorType(str, enum.Enum):
+    """Tipo de visitante"""
+    FAMILY = "family"                # Familia
+    FRIEND = "friend"                # Amigo
+    BUSINESS = "business"            # Negocio/Trabajo
+    MAINTENANCE = "maintenance"      # Mantenimiento
+    INSPECTION = "inspection"        # Inspección
+    DELIVERY = "delivery"            # Entrega
+    OTHER = "other"                  # Otro
+
+
 # ===========================================
 # Models
 # ===========================================
@@ -228,7 +239,7 @@ class ImportLog(Base):
 class AuditLog(Base):
     """Audit log"""
     __tablename__ = "audit_log"
-    
+
     id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
     table_name = Column(String(50), nullable=False)
     record_id = Column(UUID(as_uuid=True))
@@ -238,3 +249,46 @@ class AuditLog(Base):
     user_id = Column(UUID(as_uuid=True), ForeignKey("users.id"))
     ip_address = Column(String(45))
     created_at = Column(DateTime(timezone=True), default=datetime.utcnow)
+
+
+class Visitor(Base):
+    """Visitor model (訪問者)"""
+    __tablename__ = "visitors"
+
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    visitor_name = Column(String(100), nullable=False)
+    phone = Column(String(20))
+    email = Column(String(100))
+    relationship = Column(String(50))  # Relación con el residente (padre, amigo, etc)
+    visitor_type = Column(SQLEnum(VisitorType), default=VisitorType.OTHER)
+    notes = Column(Text)
+    is_active = Column(Boolean, default=True)
+    created_at = Column(DateTime(timezone=True), default=datetime.utcnow)
+    updated_at = Column(DateTime(timezone=True), default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    # Relationships
+    accesses = relationship("VisitorAccess", back_populates="visitor")
+
+
+class VisitorAccess(Base):
+    """Visitor access log (訪問者アクセス履歴) - Registro de entrada/salida de visitantes"""
+    __tablename__ = "visitor_accesses"
+
+    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)
+    apartment_id = Column(UUID(as_uuid=True), ForeignKey("apartments.id", ondelete="CASCADE"), nullable=False)
+    employee_id = Column(UUID(as_uuid=True), ForeignKey("employees.id", ondelete="CASCADE"), nullable=False)
+    visitor_id = Column(UUID(as_uuid=True), ForeignKey("visitors.id", ondelete="SET NULL"), nullable=True)
+    visitor_name = Column(String(100), nullable=False)  # Nombre del visitante (fallback si no hay visitor_id)
+    visitor_type = Column(SQLEnum(VisitorType), default=VisitorType.OTHER)
+    entry_time = Column(DateTime(timezone=True), nullable=False)
+    exit_time = Column(DateTime(timezone=True), nullable=True)
+    purpose = Column(String(255))  # Propósito de la visita
+    notes = Column(Text)
+    color_code = Column(String(7), default="#3B82F6")  # Código de color para identificación visual (hex)
+    created_at = Column(DateTime(timezone=True), default=datetime.utcnow)
+    updated_at = Column(DateTime(timezone=True), default=datetime.utcnow, onupdate=datetime.utcnow)
+
+    # Relationships
+    apartment = relationship("Apartment", foreign_keys=[apartment_id])
+    employee = relationship("Employee", foreign_keys=[employee_id])
+    visitor = relationship("Visitor", back_populates="accesses")
