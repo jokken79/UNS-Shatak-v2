@@ -79,3 +79,16 @@ export const getImportTemplate = (type: string) => api.get(`/import/template/${t
 
 // Dashboard
 export const getDashboardStats = () => api.get('/dashboard/stats');
+
+// Assignments
+export const getAssignments = (params?: any) => api.get('/assignments', { params });
+export const getAssignment = (id: string) => api.get(`/assignments/${id}`);
+export const createAssignment = (data: any) => api.post('/assignments', data);
+export const updateAssignment = (id: string, data: any) => api.put(`/assignments/${id}`, data);
+export const deleteAssignment = (id: string) => api.delete(`/assignments/${id}`);
+export const calculateAssignmentPrice = (data: {
+  apartment_id: string;
+  employee_id: string;
+  move_in_date: string;
+  custom_monthly_rate?: number;
+}) => api.post('/assignments/calculate', data);

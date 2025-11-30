@@ -36,6 +36,12 @@ class ContractTypeEnum(str, Enum):
     PART_TIME = "part_time"
 
 
+class PricingTypeEnum(str, Enum):
+    """Tipo de cálculo de precio del apartamento"""
+    SHARED = "shared"  # Precio compartido (dividido entre ocupantes)
+    FIXED = "fixed"    # Precio fijo por persona
+
+
 # ===========================================
 # Auth Schemas
 # ===========================================
@@ -155,6 +161,7 @@ class ApartmentBase(BaseModel):
     landlord_company: Optional[str] = Field(None, max_length=100)
     status: Optional[ApartmentStatusEnum] = ApartmentStatusEnum.AVAILABLE
     capacity: Optional[int] = 1
+    pricing_type: Optional[PricingTypeEnum] = PricingTypeEnum.SHARED
     notes: Optional[str] = None
     amenities: Optional[List[str]] = []
 
@@ -192,6 +199,7 @@ class ApartmentUpdate(BaseModel):
     landlord_company: Optional[str] = Field(None, max_length=100)
     status: Optional[ApartmentStatusEnum] = None
     capacity: Optional[int] = None
+    pricing_type: Optional[PricingTypeEnum] = None
     notes: Optional[str] = None
     amenities: Optional[List[str]] = None
     is_active: Optional[bool] = None
@@ -324,6 +332,7 @@ class AssignmentBase(BaseModel):
     move_in_date: date
     move_out_date: Optional[date] = None
     monthly_charge: Optional[Decimal] = None
+    custom_monthly_rate: Optional[Decimal] = None  # Precio personalizado para este empleado
     deposit_paid: Optional[Decimal] = None
     notes: Optional[str] = None
 
@@ -335,6 +344,7 @@ class AssignmentCreate(AssignmentBase):
 class AssignmentUpdate(BaseModel):
     move_out_date: Optional[date] = None
     monthly_charge: Optional[Decimal] = None
+    custom_monthly_rate: Optional[Decimal] = None
     notes: Optional[str] = None
     is_current: Optional[bool] = None
 
