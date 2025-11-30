@@ -7,6 +7,7 @@ from app.api.imports import router as imports_router
 from app.api.data import router as data_router
 from app.api.assignments import router as assignments_router
 from app.api.visitors import router as visitors_router
+from app.api.export import router as export_router
 
 __all__ = [
     "auth_router",
@@ -16,5 +17,6 @@ __all__ = [
     "imports_router",
     "data_router",
     "assignments_router",
-    "visitors_router"
+    "visitors_router",
+    "export_router"
 ]

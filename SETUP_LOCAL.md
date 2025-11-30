@@ -87,7 +87,66 @@ Permite ver:
   - 🟩 **Color de fondo** (asignado automáticamente)
   - ⭐ **Etiqueta "NUEVO"** en rojo/verde
   - 📅 **Fecha de ingreso** claramente visible
-  - 👤 **Nombre y código de empleado**
+  - 👤 **Nombre, código de empleado e ID**
+  - 📊 **Información de fábrica y renta**
+
+### 2. Exportación de Datos (CSV / Excel)
+
+**Ubica en:** `/dashboard/reports` (botón de exportación)
+
+Descarga todos los datos de ocupación en formato:
+- ✅ **Excel (.xlsx)** con colores y formato automático
+- ✅ **CSV (.csv)** para importar en otras herramientas
+
+**Información incluida:**
+- Código de apartamento
+- Nombre del apartamento
+- Código e ID del empleado ⭐
+- Nombre (Romaji y Kanji)
+- Email y teléfono
+- Fábrica asignada
+- Fecha de ingreso/salida
+- Estado (Actual/Nuevo)
+- Color asignado
+- Renta mensual
+
+**Características:**
+- Residentes nuevos con fondo verde en Excel
+- Exportación de todos los apartamentos o solo uno específico
+- Filtrado por mes/año
+
+### 3. Reportes y Análisis de Rotación
+
+**Ubica en:** `/dashboard/reports`
+
+Visualiza:
+- 📈 **Gráfico de movimientos mensuales** (ingresos/egresos)
+- 📊 **Tendencia de ocupación** por mes
+- 💹 **Ocupación promedio** del año
+- 🔄 **Movimiento neto** de residentes
+- 📋 **Tabla detallada** de todos los meses
+
+Datos estadísticos:
+- Total de nuevos residentes (ingresos)
+- Total de residentes salientes (egresos)
+- Ocupación promedio del año
+- Movimiento neto de población
+- Tasa de rotación mensual
+
+### 4. Notificaciones de Ocupación
+
+**Ubica en:** Botón de campana (🔔) en la esquina superior
+
+Alertas en tiempo real de:
+- 🟢 **Nuevos residentes** que se mudan
+- 🔵 **Residentes que se van** del apartamento
+- 🟣 **Cambios de ocupación** (apartamento lleno, etc)
+
+Características:
+- Contador de notificaciones sin leer
+- Historial de cambios recientes
+- Marca como leído automáticamente
+- Marca todos como leídos de una vez
 
 ### 2. Identificación Visual
 
