@@ -42,6 +42,17 @@ class PricingTypeEnum(str, Enum):
     FIXED = "fixed"    # Precio fijo por persona
 
 
+class VisitorTypeEnum(str, Enum):
+    """Tipo de visitante"""
+    FAMILY = "family"
+    FRIEND = "friend"
+    BUSINESS = "business"
+    MAINTENANCE = "maintenance"
+    INSPECTION = "inspection"
+    DELIVERY = "delivery"
+    OTHER = "other"
+
+
 # ===========================================
 # Auth Schemas
 # ===========================================
@@ -334,6 +345,8 @@ class AssignmentBase(BaseModel):
     monthly_charge: Optional[Decimal] = None
     custom_monthly_rate: Optional[Decimal] = None  # Precio personalizado para este empleado
     deposit_paid: Optional[Decimal] = None
+    is_recent: Optional[bool] = False
+    assigned_color: Optional[str] = "#3B82F6"
     notes: Optional[str] = None
 
 
@@ -345,8 +358,10 @@ class AssignmentUpdate(BaseModel):
     move_out_date: Optional[date] = None
     monthly_charge: Optional[Decimal] = None
     custom_monthly_rate: Optional[Decimal] = None
-    notes: Optional[str] = None
     is_current: Optional[bool] = None
+    is_recent: Optional[bool] = None
+    assigned_color: Optional[str] = None
+    notes: Optional[str] = None
 
 
 class AssignmentResponse(AssignmentBase):
@@ -356,7 +371,7 @@ class AssignmentResponse(AssignmentBase):
     updated_at: datetime
     employee: Optional[EmployeeSimple] = None
     apartment: Optional[ApartmentResponse] = None
-    
+
     class Config:
         from_attributes = True
 
@@ -401,6 +416,82 @@ class DashboardStats(BaseModel):
     total_factories: int
     active_factories: int
     occupancy_rate: float
+
+
+# ===========================================
+# Visitor Schemas (訪問者)
+# ===========================================
+
+class VisitorBase(BaseModel):
+    visitor_name: str = Field(..., max_length=100)
+    phone: Optional[str] = Field(None, max_length=20)
+    email: Optional[EmailStr] = None
+    relationship: Optional[str] = Field(None, max_length=50)
+    visitor_type: Optional[VisitorTypeEnum] = VisitorTypeEnum.OTHER
+    notes: Optional[str] = None
+
+
+class VisitorCreate(VisitorBase):
+    pass
+
+
+class VisitorUpdate(BaseModel):
+    visitor_name: Optional[str] = Field(None, max_length=100)
+    phone: Optional[str] = Field(None, max_length=20)
+    email: Optional[EmailStr] = None
+    relationship: Optional[str] = Field(None, max_length=50)
+    visitor_type: Optional[VisitorTypeEnum] = None
+    notes: Optional[str] = None
+    is_active: Optional[bool] = None
+
+
+class VisitorResponse(VisitorBase):
+    id: UUID
+    is_active: bool
+    created_at: datetime
+    updated_at: datetime
+
+    class Config:
+        from_attributes = True
+
+
+# ===========================================
+# Visitor Access Schemas (訪問者アクセス履歴)
+# ===========================================
+
+class VisitorAccessBase(BaseModel):
+    apartment_id: UUID
+    employee_id: UUID
+    visitor_id: Optional[UUID] = None
+    visitor_name: str = Field(..., max_length=100)
+    visitor_type: Optional[VisitorTypeEnum] = VisitorTypeEnum.OTHER
+    entry_time: datetime
+    exit_time: Optional[datetime] = None
+    purpose: Optional[str] = Field(None, max_length=255)
+    notes: Optional[str] = None
+    color_code: Optional[str] = Field(None, max_length=7)
+
+
+class VisitorAccessCreate(VisitorAccessBase):
+    pass
+
+
+class VisitorAccessUpdate(BaseModel):
+    exit_time: Optional[datetime] = None
+    purpose: Optional[str] = Field(None, max_length=255)
+    notes: Optional[str] = None
+    color_code: Optional[str] = Field(None, max_length=7)
+
+
+class VisitorAccessResponse(VisitorAccessBase):
+    id: UUID
+    created_at: datetime
+    updated_at: datetime
+    visitor: Optional[VisitorResponse] = None
+    employee: Optional[EmployeeSimple] = None
+
+    class Config:
+        from_attributes = True
 
 
 # Update forward references
