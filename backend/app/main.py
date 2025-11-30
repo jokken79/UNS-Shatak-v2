@@ -7,7 +7,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from contextlib import asynccontextmanager
 from loguru import logger
 from app.core.config import settings
-from app.api import auth_router, apartments_router, employees_router, factories_router, imports_router, data_router
+from app.api import auth_router, apartments_router, employees_router, factories_router, imports_router, data_router, assignments_router
 
 
 @asynccontextmanager
@@ -41,6 +41,7 @@ app.include_router(employees_router, prefix="/api")
 app.include_router(factories_router, prefix="/api")
 app.include_router(imports_router, prefix="/api")
 app.include_router(data_router, prefix="/api")
+app.include_router(assignments_router, prefix="/api")
 
 
 @app.get("/")

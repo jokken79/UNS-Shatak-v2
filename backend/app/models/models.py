@@ -40,6 +40,16 @@ class ContractType(str, enum.Enum):
     PART_TIME = "part_time"
 
 
+class PricingType(str, enum.Enum):
+    """
+    Tipo de cálculo de precio del apartamento
+    - SHARED: El precio total se divide entre los ocupantes (ej. 60,000 ÷ 4 = 15,000 por persona)
+    - FIXED: Cada persona paga un precio fijo sin importar cuántos ocupantes haya (ej. siempre 15,000)
+    """
+    SHARED = "shared"  # Precio compartido (dividido entre ocupantes)
+    FIXED = "fixed"    # Precio fijo por persona
+
+
 # ===========================================
 # Models
 # ===========================================
@@ -117,6 +127,7 @@ class Apartment(Base):
     status = Column(SQLEnum(ApartmentStatus), default=ApartmentStatus.AVAILABLE)
     capacity = Column(Integer, default=1)
     current_occupants = Column(Integer, default=0)
+    pricing_type = Column(SQLEnum(PricingType), default=PricingType.SHARED, nullable=False)
     notes = Column(Text)
     photos = Column(JSONB, default=list)
     amenities = Column(JSONB, default=list)
@@ -187,6 +198,7 @@ class ApartmentAssignment(Base):
     move_in_date = Column(Date, nullable=False)
     move_out_date = Column(Date)
     monthly_charge = Column(Numeric(10, 2))
+    custom_monthly_rate = Column(Numeric(10, 2))  # Precio personalizado para este empleado (opcional)
     deposit_paid = Column(Numeric(10, 2))
     is_current = Column(Boolean, default=True)
     notes = Column(Text)
