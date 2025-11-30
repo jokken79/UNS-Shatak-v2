@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { GlassCard } from "@/components/modern";
 import {
   Home, MapPin, Calendar, DollarSign, TrendingUp,
-  Clock, ArrowRight, CheckCircle2, Circle
+  Clock, ArrowRight, CheckCircle2, Circle, Star
 } from "lucide-react";
 import { formatCurrency } from "@/lib/utils";
 
@@ -14,10 +14,12 @@ interface Assignment {
     name: string;
     apartment_code: string;
     address: string;
+    pricing_type?: "shared" | "fixed";
   };
   move_in_date: string;
   move_out_date: string | null;
   monthly_charge: number;
+  custom_monthly_rate?: number;
   deposit_paid: number;
   is_current: boolean;
 }
@@ -133,11 +135,22 @@ export function MovementTimeline({ assignments, employeeName }: MovementTimeline
                       {/* Header */}
                       <div className="flex items-start justify-between mb-4">
                         <div className="flex-1">
-                          <div className="flex items-center gap-2 mb-1">
+                          <div className="flex items-center gap-2 mb-1 flex-wrap">
                             <h4 className="font-semibold text-lg">{assignment.apartment.name}</h4>
                             {assignment.is_current && (
                               <span className="px-2 py-0.5 rounded-full bg-green-500 text-white text-xs font-medium">
                                 Actual
+                              </span>
+                            )}
+                            {assignment.custom_monthly_rate && (
+                              <span className="px-2 py-0.5 rounded-full bg-purple-500/20 text-purple-600 text-xs font-medium inline-flex items-center gap-1">
+                                <Star className="w-3 h-3" />
+                                Precio Personalizado
+                              </span>
+                            )}
+                            {assignment.apartment.pricing_type && (
+                              <span className="px-2 py-0.5 rounded-full bg-blue-500/20 text-blue-600 text-xs font-medium">
+                                {assignment.apartment.pricing_type === "shared" ? "💰 Compartido" : "📌 Fijo"}
                               </span>
                             )}
                           </div>
